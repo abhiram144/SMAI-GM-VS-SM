@@ -1,0 +1,20 @@
+Before running the classifier, being in MATLAB, execute
+"cd libsvm-3.17/matlab" and, then, "make". Then, return
+to the main directory "cd ../..".
+
+To run letter data set classification:
+
+1) Edit letter_main.m
+	- change per_letter_sample_size to some number from, say, 20 to 150 (all)
+	  to speed up the classification process
+1.5) Edit any other options affecting classification (e.g., parameters passed to
+	lipschitz_embed)
+2) Run "letter_main"
+
+To run mutagenicity data set classification:
+
+1) Edit mutagen_main.m
+	- change per_letter_sample_size to something below 1 (e.g., 0.01 to use 1% sample)
+	- lower dim (dimensionality of vector space) from 32 to ... to speed up the process
+1.5) The same as with letters
+2) Run "mutagen_main"
