@@ -1,0 +1,257 @@
+<graph>
+  <node id="ACRES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANGELES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOX">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CHARTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONFIDENTIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CRAVEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CUMULATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXHIBITOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILMWEEKEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FULL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROSS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INANDOUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JANE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVIE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OFFICE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PEACEMAKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RELATIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SOUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUSANDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THREE-DAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEKEND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WISHMASTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ANGELES" to="SEPT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOX" to="OFFICE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="BOX" to="OFFICE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CRAVEN" to="WISHMASTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CUMULATIVE" to="GROSS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXHIBITOR" to="RELATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FILM" to="THREE-DAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINAL" to="DATA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FULL" to="MONTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROSS" to="CUMULATIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOS" to="ANGELES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFICE" to="CHARTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="OFFICE" to="CHARTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOUL" to="FOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="FILMWEEKEND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THOUSANDS" to="ACRES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THREE-DAY" to="GROSS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEKEND" to="BOX">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="WEEKEND" to="BOX">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="WES" to="CRAVEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

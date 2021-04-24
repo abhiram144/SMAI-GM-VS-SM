@@ -1,0 +1,969 @@
+<graph>
+  <node id="ACTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADVANCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ADVANCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFRICA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="APELL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUSTRALIAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUSTRIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BATTLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEIJING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOHDAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRAZIL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRITAIN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAPTURED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHAMPION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CHANGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHINA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHRIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COURIER">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CROATIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CRUISED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CZECH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DAMM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAVIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFEAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFEATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOUBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOWNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DUO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EASIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELIMINATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENCOUNTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EVENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FELIX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINALISTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FIRST-ROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRENCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GERMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GERMANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GORAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GREAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GREG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GUSTAFSSON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GUSTAVO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HAAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEINEKEN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HELPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HENMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HOPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDOOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="IVANISEVIC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="JAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JIM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JIRI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOHANSSON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JONATHAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KAFELNIKOV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KAROL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KIEFER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KNOCKED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="KRAJICEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KUCERA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="KUERTEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LARSSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAGNUS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MANTILLA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARCELO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARCOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARTIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MATCH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MATCHUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEETING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICHAEL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MIKAEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUSTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NETHERLANDS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NICOLAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NORMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NOVAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ONDRUSKA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPEN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="OUSTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAIR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PLAYER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PREVAILED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUALIFIER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUARTERFINALS">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RANKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPUBLIC">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RICHARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RIO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUSEDSKI">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RUSSIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEASON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SECOND-ROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEED">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SEVENTH-SEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHAKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHOWDOWN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINGAPORE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIXTH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SLOVAKIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SLUMP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOUTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STARK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRAIGHT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STRAIGHT-SET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWEDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWEDEN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="SWEDISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWISS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEBBUTT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TENNIS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TENNISMEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THIRD-SEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOMAS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="THREE-TIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THURSDAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TILLSTROM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TODAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TODD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOMMY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOUGH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TOUR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOURNAMENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TRIUMPH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TROPHY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ULIHRACH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNITED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="UNSEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPSET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VERSUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIENNA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WILDCARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WINNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOODRUFF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="YEAR-OLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YEVGENY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ADVANCED" to="TODAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGAINST" to="RICHARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="CHRIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="TODD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ATP" to="TOUR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTRALIAN" to="QUALIFIER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTRIA" to="THIRD-SEEDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BATTLE" to="KAROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BESTED" to="MAGNUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOHDAN" to="ULIHRACH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CA" to="TENNIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHAMPION" to="GUSTAVO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHAMPION" to="IMPROVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHAMPION" to="JONATHAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILE" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHINA" to="OPEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHRIS" to="WOODRUFF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURIER" to="ADVANCE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COURIER" to="ADVANCE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COURIER" to="WON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CUP" to="QUARTERFINALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CZECH" to="REPUBLIC">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="DAVIS" to="CUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFEATED" to="AUSTRALIAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFEND" to="CHAMPION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DOUBLE" to="PLAYER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELIMINATED" to="SIXTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EVENT" to="BESTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FELIX" to="MANTILLA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINALISTS" to="THOMAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FIRST-ROUND" to="MATCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRENCH" to="OPEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GERMAN" to="MARTIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GERMAN" to="WILDCARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GORAN" to="IVANISEVIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREAT" to="BRITAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREG" to="RUSEDSKI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GUSTAVO" to="KUERTEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEINEKEN" to="OPEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEINEKEN" to="QUARTERFINALS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HEINEKEN" to="QUARTERFINALS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="INDOOR" to="EVENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAN" to="APELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JIM" to="COURIER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JIRI" to="NOVAK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOHANSSON" to="CRUISED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JONATHAN" to="STARK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KAROL" to="KUCERA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAGNUS" to="GUSTAFSSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAGNUS" to="LARSSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAGNUS" to="NORMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARCELO" to="RIO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARCOS" to="ONDRUSKA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARTIN" to="DAMM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARTIN" to="SINNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MATCH" to="AGO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHAEL" to="CHANGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHAEL" to="TEBBUTT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MIKAEL" to="TILLSTROM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NICOLAS" to="KIEFER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="CHAMPION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="DEFEATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="FINALISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="TENNIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OUSTED" to="JIRI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PAST" to="AMERICAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="BOHDAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUALIFIER" to="JAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUALIFIER" to="MICHAEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUARTERFINALS" to="ENCOUNTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUARTERFINALS" to="FOE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUARTERFINALS" to="MATCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUARTERFINALS" to="PAIR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUARTERFINALS" to="SHOWDOWN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECENT" to="SLUMP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPUBLIC" to="VERSUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RICHARD" to="KRAJICEK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROUND" to="MOVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUSEDSKI" to="QUARTERFINALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SECOND-ROUND" to="ACTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="JIM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="MARCELO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="MARTIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="MICHAEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="YEVGENY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEVENTH-SEEDED" to="MAGNUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHAKE" to="RECENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIXTH" to="SEED">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SOUTH" to="AFRICA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPORT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STARK" to="RANKED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="DEFEAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TENNISMEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAIGHT" to="TOURNAMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAIGHT" to="YEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAIGHT-SET" to="WINNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDE" to="PREVAILED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDEN" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDEN" to="SET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDISH" to="QUALIFIER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWISS" to="INDOOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TENNIS" to="TOURNAMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TENNIS" to="TROPHY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THIRD-SEEDED" to="GORAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THOMAS" to="JOHANSSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THOMAS" to="MUSTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THREE-TIME" to="FINALISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIMES" to="HENMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TODD" to="MARTIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOMMY" to="HAAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOUGH" to="MATCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNITED" to="STATES">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="UNSEEDED" to="MIKAEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VERSUS" to="UNSEEDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIENNA" to="AUSTRIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEK" to="CHINA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEK" to="SWISS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILDCARD" to="TOMMY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WIN" to="SET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WIN" to="THURSDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WINNER" to="THURSDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WON" to="MATCHUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR" to="DAVIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR-OLD" to="STARK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEVGENY" to="KAFELNIKOV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

@@ -1,0 +1,399 @@
+<graph>
+  <node id="ADDITION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGREE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGREEING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSISTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AWAITING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLACKHAWKS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLUE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLUELINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROKEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAPITAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLUB">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLLATERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTINUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTRACT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CORP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFENSEMAN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DEVELOPMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCLOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRAFT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FELL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAME">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GENERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GEORGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GONCHAR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JERSEY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="JOIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KNEE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAGUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEFT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIGAMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MANAGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MCPHEE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MINUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MISSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NHLCAPITALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PICK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAYER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RANK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESTRICTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RETIRE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RUSSIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAVARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEASON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SECOND-DEGREE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERGEI">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SKILLS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPRAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRENGTHENED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEAM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TERMS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TURGEON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRIST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YOUNG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AGENT" to="DEFENSEMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BLUE" to="TURGEON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BLUE" to="TURGEON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BLUELINE" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROKEN" to="WRIST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BROKEN" to="WRIST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CAP" to="DEFENSEMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAPITAL" to="AGREE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CAPITAL" to="AGREE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CAPITAL" to="GENERAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAPITAL" to="STRENGTHENED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COLLATERAL" to="LIGAMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CORP" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFENSEMAN" to="SERGEI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTRY" to="DRAFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENERAL" to="MANAGER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GEORGE" to="MCPHEE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAD" to="CAP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEFT" to="KNEE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MANAGER" to="GEORGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARK" to="FELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEDIAL" to="COLLATERAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RETIRE" to="SAVARD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="RETIRE" to="SAVARD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUSSIA" to="AWAITING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAVARD" to="JERSEY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SAVARD" to="JERSEY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SECOND-DEGREE" to="SPRAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SERGEI" to="GONCHAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SERGEI" to="SKILLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPORT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="NHLCAPITALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WASHINGTON" to="CAPITAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YOUNG" to="DEFENSEMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

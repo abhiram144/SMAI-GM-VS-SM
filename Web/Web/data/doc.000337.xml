@@ -1,0 +1,976 @@
+<graph>
+  <node id="ABLE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ACCOMPANYING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADDITIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGENCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIDS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ALLERGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANIMALS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ANTHONY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPLICATIONS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="APPROVAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATTACK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIOLOGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLISTERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALIFORNIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CANCER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CATTLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAUSING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CELL-TARGETED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CELLS">
+    <attribute name="FREQUENCY" value="13" />
+  </node>
+  <node id="CENTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHEMOTHERAPY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHRONOTHERAPY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLI">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COLLEAGUES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMBAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONCEPT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONNECTICUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTINUOUSLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTRAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CULTURED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CURRENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CXCR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECOY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DELETED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DELIVERY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPARTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DESTROY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DETERMINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIRECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIRECTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISEASE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRUG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDITORIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECTIVE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EFFICACY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENGINEERED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENORMOUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENVELOPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ETHICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVENTUALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPERIMENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPRESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXTREMELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FASCINATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAUCI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLU-LIKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORWARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUNDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GARRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GENETICALLY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="GENOME">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GERMANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOVERNMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOVERNMENTAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROWING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HAVEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIGHEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIV">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HIV-CARRYING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIV-INFECTED">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="HORSES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUMAN">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ILLNESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="IMMUNE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMMUNOCOMPROMISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFECT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFECTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFECTIOUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INSTITUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOURNAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KILL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KILLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KNOCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAB">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEVELS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAKES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MATTHIAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICINE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MILD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MODIFIED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MOLECULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOUTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEEDED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOLAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NORMAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PATIENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERFORMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PHARMACOLOGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PIGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POTENTIAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROTEIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLISHED">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RABIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RABIES-LIKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RARELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="READY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECEPTORS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REDUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPLACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPLICATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REQUIRE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVIEW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAFE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCHNELL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCHOOL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SELF-REPLICATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPECIFICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPREAD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STANFORD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STEP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOMATITIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STUDIES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SURFACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURPRISINGLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYMPTOMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYSTEM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TARGET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERAPEUTIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREATMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUBES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUBINGEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNDETECTABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNINFECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIVERSITY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNTOUCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VESICULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIRAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIRUS">
+    <attribute name="FREQUENCY" value="22" />
+  </node>
+  <node id="VITRO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VSV">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WROTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YALE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AIDS" to="CHEMOTHERAPY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AIDS" to="CHEMOTHERAPY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AIDS" to="PATIENTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANIMALS" to="STUDIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ATTACK" to="HIV">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ATTACK" to="HIV">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CALLED" to="VESICULAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CATTLE" to="HORSES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAUSING" to="BLISTERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELL-TARGETED" to="DELIVERY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELLS" to="BIND">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CELLS" to="UNTOUCHED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHRONOTHERAPY" to="AIDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CHRONOTHERAPY" to="AIDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="COLI" to="GENOME">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="COLI" to="GENOME">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="COMBAT" to="CULTURED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTINUOUSLY" to="COMBAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTRAST" to="SCHNELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CULTURED" to="HIV-INFECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CULTURED" to="HUMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CURRENT" to="ISSUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DELETED" to="GENE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DESTROY" to="HIV-INFECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRUG" to="REQUIRE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EDITORIAL" to="ACCOMPANYING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENGINEERED" to="VIRUS">
+    <attribute name="TEXT" value="5" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ENGINEERED" to="VIRUS">
+    <attribute name="TEXT" value="5" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ENORMOUS" to="POTENTIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENVELOPE" to="PROTEIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EVENTUALLY" to="OFFER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPRESS" to="CD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXTREMELY" to="LOW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FASCINATING" to="DIRECTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="RESEARCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FLU-LIKE" to="ILLNESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOLD" to="KNOCK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GARRY" to="NOLAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENETICALLY" to="ENGINEERED">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="GENETICALLY" to="MODIFIED">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="GENOME" to="PUBLISHED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GENOME" to="PUBLISHED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GERMANY" to="GENETICALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOVERNMENT" to="AGENCY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOVERNMENTAL" to="APPROVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HAVEN" to="CONNECTICUT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHEST" to="LEVELS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIV" to="CANCER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIV-CARRYING" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIV-INFECTED" to="CELLS">
+    <attribute name="TEXT" value="5" />
+  </edge>
+  <edge from="HIV-INFECTED" to="HUMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="DISEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="IMMUNE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMUNE" to="SYSTEM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMUNOCOMPROMISED" to="AIDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFECT" to="CATTLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFECTED" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFECTIOUS" to="DISEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOURNAL" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAB" to="DISH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAD" to="STUDY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAP" to="FORWARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAVE" to="NORMAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOS" to="EFFICACY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEDICAL" to="REVIEW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILD" to="FLU-LIKE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MODIFIED" to="RABIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MODIFIED" to="VIRUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MODIFIED" to="VSV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOLECULAR" to="PHARMACOLOGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="INSTITUTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NOLAN" to="WROTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NORMAL" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PHARMACOLOGY" to="DEPARTMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PIGS" to="CAUSING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIAL" to="APPLICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIAL" to="TREATMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RABIES" to="VIRUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RABIES-LIKE" to="VIRUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECEPTORS" to="STEP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REDUCE" to="HIV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPLICATE" to="CONTINUOUSLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPLICATE" to="HIV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCH" to="CENTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="DELETED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPECIFICALLY" to="TARGET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STANFORD" to="UNIVERSITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOMATITIS" to="VIRUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="AUTHOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SURPRISINGLY" to="EFFECTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SYSTEM" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TARGET" to="HIV-INFECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEST" to="TUBES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERAPEUTIC" to="APPLICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUBES" to="STUDIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUBINGEN" to="GERMANY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNDETECTABLE" to="LEVELS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNINFECTED" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNIVERSITY" to="SCHOOL">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="VESICULAR" to="STOMATITIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIRAL" to="BIOLOGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIRUS" to="ATTACK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="4" />
+  </edge>
+  <edge from="VIRUS" to="ATTACK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="4" />
+  </edge>
+  <edge from="VIRUS" to="DISEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIRUS" to="ENVELOPE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIRUS" to="REDUCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VSV" to="ACT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YALE" to="UNIVERSITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

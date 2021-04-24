@@ -1,0 +1,799 @@
+<graph>
+  <node id="ACADEMIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADMINISTRATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADOPT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGENCY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="AGRICULTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANALYSIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANTICIPATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPLE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="AREA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARTHRITIS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AUGUST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEGIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CANADA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHECK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHECKLIST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHILD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHRONICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CIDER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="COLI">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMISSIONER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMUNICATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSIDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSUMER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTROL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CRITICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CUSTOMERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DANGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DECIDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPARTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPUTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRINK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRUG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDUCATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDUCATORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ELDERLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENSURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ESCHERICHIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXTENSION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FACILITIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FALL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FDA">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="FINALIZED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOOD">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FOODBORNE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FRESH">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="FRUITS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOLD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GREATEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HACCP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HARVEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HAZARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ILLNESS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="IMMEDIATELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMMUNE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDIVIDUALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INSTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INSTITUTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVOLVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUICE">
+    <attribute name="FREQUENCY" value="12" />
+  </node>
+  <node id="LABEL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LABOR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LIFE-THREATENING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAILING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MANUFACTURERS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="MARKETPLACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MASS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEANTIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MULLING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OFFICIALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUTBREAK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PASTEURIZED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PASTEURIZING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PATHOGENS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLICY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POTENTIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POULTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREVALENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRINCIPAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCTS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="PROFESSIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROGRAM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROPOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROPOSES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RECENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELEASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESPONSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RING">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="ROCKVILLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RULES">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="SAFETY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCHOOL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCHULTZ">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEAFOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHORTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLOW">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SMALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPOKESMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SYSTEM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRAUMA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="UNPASTEURIZED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="UNPROCESSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPCOMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VEGETABLES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VOLUNTARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WARNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WARNING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WEAKENED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WESTERN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WILLIAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YOUNG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ACADEMIC" to="INSTITUTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AFFECT" to="SMALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGRICULTURE" to="EXTENSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPLE" to="HARVEST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPLE" to="JUICE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BEGIN" to="EDUCATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="IMMEDIATELY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="MASS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="PASTEURIZING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARE" to="FACILITIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHECK" to="WORK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CHECK" to="WORK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CHECKLIST" to="CHECK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CHECKLIST" to="CHECK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CHILD" to="DIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CIDER" to="MANUFACTURERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CIDER" to="PRODUCTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COLI" to="OUTBREAK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTROL" to="POINT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CRITICAL" to="CONTROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAY" to="CARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAY" to="CHECKLIST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DAY" to="CHECKLIST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DEPUTY" to="COMMISSIONER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIED" to="FDA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRUG" to="ADMINISTRATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EDUCATE" to="CONSUMER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENSURE" to="SAFETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ESCHERICHIA" to="COLI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXTENSION" to="CENTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FDA" to="DEPUTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FDA" to="OFFICIALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FDA" to="SPOKESMAN">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="FOOD" to="INDUSTRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOOD" to="SAFETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOODBORNE" to="ILLNESS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="FRESH" to="APPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRESH" to="JUICE">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="FRESH" to="JUICE">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="FRESH" to="UNPASTEURIZED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOLD" to="RING">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="GOLD" to="RING">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HAZARD" to="ANALYSIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="PROFESSIONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="SERVICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMEDIATELY" to="LABEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMUNE" to="SYSTEM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INSTANCE" to="DECIDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ISSUE" to="RELEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUICE" to="COMPANIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUICE" to="MANUFACTURERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUICE" to="POSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LABEL" to="FRESH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LABOR" to="DAY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LABOR" to="DAY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LIFE-THREATENING" to="ILLNESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MANUFACTURERS" to="INVOLVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MASS" to="MAILING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSE" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIAL" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRINCIPAL" to="FOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRODUCTS" to="SHORTLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROGRAM" to="BASED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUBLIC" to="HEALTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUT" to="LABEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECENT" to="OUTBREAK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RING" to="SLOW">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="RING" to="SLOW">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="ROCKVILLE" to="MD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RULES" to="JUICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAFETY" to="EDUCATORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAFETY" to="PROCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAFETY" to="PROGRAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHOOL" to="PRINCIPAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHULTZ" to="FDA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SLOW" to="ARTHRITIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SLOW" to="ARTHRITIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STORIES" to="FDA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNPASTEURIZED" to="APPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNPASTEURIZED" to="JUICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNPASTEURIZED" to="PRODUCTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNPROCESSED" to="PRODUCTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UPCOMING" to="APPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VEGETABLES" to="JUICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VOLUNTARY" to="PUBLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WARNING" to="LABEL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="WARNING" to="LABEL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="WEAKENED" to="IMMUNE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="AUGUST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WESTERN" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILLIAM" to="SCHULTZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WORK" to="TRAUMA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WORK" to="TRAUMA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+</graph>

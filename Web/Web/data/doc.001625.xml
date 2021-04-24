@@ -1,0 +1,285 @@
+<graph>
+  <node id="ACADEMY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALTERNATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANGELES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANNOUNCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARTSANDSCIENCES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AWARDS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CELEBRITY-STUDDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CEREMONY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CITY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CREATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISTINGUISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GIULIANI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GRAMMY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="GREENE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELD">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAYOR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MICHAEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MUSIC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MUSICGRAMMYS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OFFICIALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRESENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RADIO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESPONSIBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RUDOLPH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIBRANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <edge from="ANNOUNCED" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AWARDS" to="CEREMONY">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BUSINESS" to="CENTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELEBRITY-STUDDED" to="CEREMONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CITY" to="MAYOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CITY" to="MUSIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GRAMMY" to="AWARDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GRAMMY" to="AWARDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GRAMMY" to="OFFICIALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREENE" to="HEAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDUSTRY" to="AWARDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOS" to="ANGELES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAYOR" to="RUDOLPH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHAEL" to="GREENE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSIC" to="HALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSIC" to="INDUSTRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="ACADEMY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFICIALS" to="ANNOUNCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RADIO" to="CITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECORD" to="ARTSANDSCIENCES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUDOLPH" to="GIULIANI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="MUSICGRAMMYS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIBRANT" to="CREATIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="CITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="YORK" to="CITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="YORK" to="DISTINGUISH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

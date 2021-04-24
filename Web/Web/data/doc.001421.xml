@@ -1,0 +1,364 @@
+<graph>
+  <node id="ABC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANNUAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUSTEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AWARDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BACKSTAGE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BETTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BOYS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTENNIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTURY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHRIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DIVA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELLEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMMA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMMY">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAMILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOX">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FRASIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GREAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HBO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOLLYWOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JANE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAWANDORDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MIDLER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MISS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MULTIPLE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NBC">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NYPD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ODYSSEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OLYMPIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PBS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRIMETIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUOTES">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ROCK">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHAPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHINING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIMPSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STEPHEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAKES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TALLY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISIONEMMYSWINNERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TRACEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPDATE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VEGAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WILLOWS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINNER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WINTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="X-FILES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANNUAL" to="PRIMETIME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTEN" to="EMMA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BACKSTAGE" to="QUOTES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BACKSTAGE" to="QUOTES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BETTE" to="MIDLER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CENTENNIAL" to="OLYMPIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHRIS" to="ROCK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVA" to="LA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EMMY" to="AWARDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EMMY" to="TALLY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="EMMY" to="TALLY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="EMMY" to="WINNER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="EMMY" to="WINNER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREAT" to="WAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JANE" to="AUSTEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LA" to="VEGAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MULTIPLE" to="EMMY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="MULTIPLE" to="EMMY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="MULTIPLE" to="WINNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NYPD" to="BLUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OLYMPIC" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRIMETIME" to="EMMY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STEPHEN" to="KING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TELEVISIONEMMYSWINNERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TH" to="ANNUAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TH" to="CENTURY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRACEY" to="TAKES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

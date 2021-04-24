@@ -1,0 +1,952 @@
+<graph>
+  <node id="ACHIEVEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ALAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALBANIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARMENIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATHENS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUSTRIA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AUTOMATICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AVOID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AZERBAIJAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BATTLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEAT">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="BELARUS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BELGIUM">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BEST-PLACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIGGEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOTTOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BOTTOM-PLACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BULGARIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAMPAIGN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLASH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLIMAX">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CLINCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLINCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLOSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COACH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPRISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTINENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COOL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CROATIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CYPRUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CZECH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEAN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DECIDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFEAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DENMARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRAW">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DUBLIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DUTCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENGLAND">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="ESTONIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EUROPEAN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="EXPECTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FAILS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAROES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FAVORITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FERDINAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FINALISTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FINISH">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FINISHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINLAND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FORFEIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORMALITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GEORGIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GERMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GERMANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GREAT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GREECE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="24" />
+  </node>
+  <node id="HANNOVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HAPPENED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELSINKI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOME-AND-AWAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUNGARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ICELAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROBABILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INJURED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IRELAND">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ITALY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JAMBOREE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAST-PLACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LATVIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIECHTENSTEIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LITHUANIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONDON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LOSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LUXEMBOURG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MACEDONIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAJOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MALTA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MATCH">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="MATHEMATICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MATHEMATICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MATTEO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEETING">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="MINNOWS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH-LONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOSCOW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NETHERLANDS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NICOSIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NORTHERN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NORWAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NOV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OLYMPIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVERTAKEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERCENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PIPES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLACE">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PLAYOFFS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="42" />
+  </node>
+  <node id="POLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PORTUGAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="POSITION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRAGUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUALIFIED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUALIFIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUALIFY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REACH">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REMAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPUBLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RETIRE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REYKJAVIK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROBERTO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROMANIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ROMANIAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUNNERS-UP">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="RUSSIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SATURDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCHUMACHER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOTLAND">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SECURE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SHAPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHEARER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLOVAKIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLOVENIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SMITH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SOCCERWORLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STADIUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STAKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRAIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRIKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUCCESSES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUMMER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUSPENDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWEDEN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SWITZERLAND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TBILISI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEAM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THURSDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRAVEL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TURKEY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TWO-WAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UKRAINE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="UNBEATEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="UNIMAGINABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VILLENEUVE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VIRTUALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VISIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WALES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIN">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="WINNER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRAPS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YUGOSLAVIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ZURICH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ALAN" to="SHEARER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTRIA" to="LOS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTRIA" to="MEETING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AVOID" to="DEFEAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="BELARUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="BELGIUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="ESTONIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="LATVIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="MALTA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEAT" to="WALES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BELARUS" to="SWEDEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEST-PLACED" to="RUNNERS-UP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIGGEST" to="MATCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOTTOM-PLACED" to="SLOVENIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAMPAIGN" to="REACH">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CAMPAIGN" to="REACH">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CASE" to="VIRTUALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLIMAX" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COACH" to="GREAT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="COACH" to="GREAT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CZECH" to="REPUBLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEAN" to="SMITH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DEAN" to="SMITH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DIES" to="MATTEO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENGLAND" to="AVOID">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAIN" to="LATVIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EUROPEAN" to="NATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EUROPEAN" to="QUALIFY">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="EUROPEAN" to="QUALIFY">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="FAROES" to="WON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FERDINAND" to="ITALY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINAL" to="POSITION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GERMAN" to="FAVORITE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GERMAN" to="PLAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREAT" to="DEAN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GREAT" to="DEAN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GREECE" to="FAILS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="TRAVEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="WINNER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="HOME-AND-AWAY" to="PLAYOFFS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HOST" to="ESTONIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INJURED" to="STRIKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ITALY" to="ROBERTO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAMBOREE" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAST-PLACED" to="ALBANIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LES" to="FERDINAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOSE" to="IRELAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAJOR" to="ACHIEVEMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MATHEMATICAL" to="IMPROBABILITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MATHEMATICALLY" to="WIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEETING" to="AZERBAIJAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEETING" to="BELARUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEETING" to="POLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MINNOWS" to="CYPRUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONTH-LONG" to="EUROPEAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NETHERLANDS" to="TURKEY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NORTHERN" to="IRELAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OLYMPIC" to="STADIUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERCENT" to="RECORD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PIPES" to="BELGIUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="ENGLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="LAST-PLACED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="RUSSIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUALIFY" to="AUTOMATICALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUALIFY" to="CAMPAIGN">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="QUALIFY" to="CAMPAIGN">
+    <attribute name="TEXT" value="6" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="REACH" to="CLIMAX">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="REACH" to="CLIMAX">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="REAL" to="BATTLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROBERTO" to="DIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROMANIAN" to="LOSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUNNERS-UP" to="PLAYOFFS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUNNERS-UP" to="RECORD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUNNERS-UP" to="SPOT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SATURDAY" to="MATCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHUMACHER" to="VILLENEUVE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SCOTLAND" to="ENTERTAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCOTLAND" to="FINISH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCOTLAND" to="LOS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SMITH" to="RETIRE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SMITH" to="RETIRE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SPAIN" to="CASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPORT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAY" to="COOL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STAY" to="COOL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STORIES" to="SOCCERWORLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAIGHT" to="SUCCESSES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRIKER" to="ALAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDEN" to="HOST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEAM" to="GERMANY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THURSDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TWO-WAY" to="FIGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UKRAINE" to="VISIT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNBEATEN" to="GERMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNIMAGINABLE" to="HAPPENED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VILLENEUVE" to="STAY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="VILLENEUVE" to="STAY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="VIRTUALLY" to="SECURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VISIT" to="ARMENIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WALES" to="BEAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WINNER" to="ROMANIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YUGOSLAVIA" to="BEAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ZURICH" to="SWITZERLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

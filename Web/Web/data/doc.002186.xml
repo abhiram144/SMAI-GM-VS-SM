@@ -1,0 +1,635 @@
+<graph>
+  <node id="ACCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACCUSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ADDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGENCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALLOWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALPHASERVER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AMERITECH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="APPLICATIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="APPROVAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BABY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELL">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="BELLSOUTH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BILLION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROWSERS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAROLINA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CARRIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHAIRMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHARGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHIEF">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CIRCUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMISSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMUNICATIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPANIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPETITORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFIRMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONVINCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CORP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DESIRABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIGITAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DISTANCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DISTRIBUTE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DOCUMENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EASIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="END">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EQUIPMENT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FCC">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FORCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GRANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GRANTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUNDT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="IMMEDIATELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTRODUCE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LEAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOCAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LONG-DISTANCE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="LUCRATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEETING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICHIGAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MICROSOFT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NETWORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OKLAHOMA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPENED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUTGOING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PASSAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PHILADELPHIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PHONE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PHOTOGRAPHS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POLITICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESSURE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGULATORS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REJECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELEASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESIDENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RULES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SBC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEEK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SENATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERIOUSNESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVICE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SHOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOUTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STEP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUGGESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGGESTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELECOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELECOMMUNICATIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEPHONE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TERMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VENTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHETHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIRED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ZDNET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="BABY" to="BELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BELLSOUTH" to="BID">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BELLSOUTH" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BID" to="SUGGESTING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BILLION" to="LONG-DISTANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRING" to="PUBLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARRIER" to="NEEDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHAIRMAN" to="REED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMISSION" to="CHAIRMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMUNICATIONS" to="COMMISSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPETITORS" to="SEEK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIGITAL" to="EQUIPMENT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DIGITAL" to="EQUIPMENT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DISTANCE" to="FCC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EASIER" to="TERMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EQUIPMENT" to="INTRODUCE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="EQUIPMENT" to="INTRODUCE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="FCC" to="APPROVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FCC" to="CHIEF">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FCC" to="CHIEF">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="COMMUNICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="RULES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUNDT" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUNDT" to="SUGGESTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOCAL" to="PHONE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOCAL" to="SERVICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG" to="DISTANCE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="LONG" to="DISTANCE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="LONG-DISTANCE" to="APPROVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG-DISTANCE" to="BUSINESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG-DISTANCE" to="CALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG-DISTANCE" to="PHONE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="LUCRATIVE" to="VENTURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHIGAN" to="REGULATORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSOFT" to="DISTRIBUTE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="MICROSOFT" to="DISTRIBUTE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="MILLION" to="BROWSERS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MILLION" to="BROWSERS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OUTGOING" to="FEDERAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PART" to="SHOT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PAST" to="WEEK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PHONE" to="BUSINESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PHONE" to="COMPANIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PHONE" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLITICAL" to="PRESSURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRESS" to="RELEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUBLIC" to="PRESSURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REED" to="HUNDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REGIONAL" to="BABY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REJECTED" to="APPLICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SBC" to="COMMUNICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEEK" to="FCC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHOT" to="CHARGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOUTH" to="CAROLINA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="REGULATORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="FCC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELECOM" to="ACT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELECOMMUNICATIONS" to="ACT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEPHONE" to="REGULATORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOLD" to="MEETING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WIN" to="LONG-DISTANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

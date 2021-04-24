@@ -1,0 +1,664 @@
+<graph>
+  <node id="AGE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ALLERGIC">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="ALLERGIES">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="ALLERGY">
+    <attribute name="FREQUENCY" value="15" />
+  </node>
+  <node id="ALLERGY-CAUSING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMOUNT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSOCIATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AVOID">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AVOIDED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIRTHDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BREAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BREASTFEEDING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BUTTER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CHANGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHIEF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CLEAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFERENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSIDERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COOKIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COUNCIL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNTRIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COW">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DAIRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECADES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIAGNOSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIGEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIPPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIVISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOCTORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOUBLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EGG">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPOSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FAMILIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOOD">
+    <attribute name="FREQUENCY" value="15" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIGHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUGHES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMMUNOLOGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INABILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDIVIDUALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRIALIZED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFANT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INSTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTOLERANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JELLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KIND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KNIFE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIFE-THREATENING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFETIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MILK">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="MINUTES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOUNT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="NUMBERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NUTS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="OFFSPRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUTGROW">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PARENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PASSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEANUTS">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="PEDIATRICS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POPULATION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PRECAUTIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREGNANCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROTEIN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REACTION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REASON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECOMMEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAMPSON">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="SANDWICH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCHOOL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEAFOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SENSITIVITY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEVERE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHELLFISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINAI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPATULA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPONSORED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGGESTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURVEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUSPECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAMKINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERESA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOLERANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOUCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRIGGER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TROUBLESOME">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VISITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHEAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOMEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YOUNG">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ALLERGIC" to="REACTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLERGY" to="FISH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLERGY" to="TREE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLERGY-CAUSING" to="PROTEIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="MEDICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASSOCIATION" to="CONFERENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AVOID" to="ALLERGIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BREAST" to="MILK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BUTTER" to="COOKIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILD" to="DIET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMON" to="FOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONFERENCE" to="SPONSORED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COW" to="MILK">
+    <attribute name="TEXT" value="5" />
+  </edge>
+  <edge from="DAIRY" to="COUNCIL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIET" to="COW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIGEST" to="COW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="JELLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG" to="ALLERGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG" to="SOY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOOD" to="ALLERGIES">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="FOOD" to="ALLERGY">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FOOD" to="ALLERGY">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FOOD" to="INTOLERANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOOD" to="SENSITIVITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOOD" to="NEWS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHER" to="RATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUGHES" to="SAMPSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMUNOLOGY" to="DIVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDUSTRIALIZED" to="COUNTRIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFANT" to="OUTGROW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INSTANCE" to="CHILDREN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JELLY" to="SANDWICH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIFE-THREATENING" to="REACTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEDICAL" to="ASSOCIATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILK" to="ALLERGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILK" to="EGG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MINUTES" to="AMOUNT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOUNT" to="SINAI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="DAIRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NUTS" to="ALLERGIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NUTS" to="ALLERGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NUTS" to="PRODUCTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEANUTS" to="ALLERGIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEANUTS" to="ALLERGY">
+    <attribute name="TEXT" value="4" />
+  </edge>
+  <edge from="PEANUTS" to="BUTTER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="PEANUTS" to="PRODUCTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEDIATRICS" to="ALLERGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROTEIN" to="EARLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROTEIN" to="PASSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAMPSON" to="CHIEF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAMPSON" to="RECOMMEND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEAFOOD" to="PEANUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SINAI" to="SCHOOL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAY" to="ALLERGIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="FOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUSPECTED" to="ALLERGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERESA" to="TAMKINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOUCHED" to="SPATULA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TREE" to="NUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRIGGER" to="ALLERGIES">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="WIPED" to="CLEAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WOMEN" to="BREASTFEEDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YOUNG" to="INFANT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YOUNG" to="POPULATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

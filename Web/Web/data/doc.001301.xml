@@ -1,0 +1,788 @@
+<graph>
+  <node id="ACCUSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ACCUSER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ADMITTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ALLEGATIONS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ALLEGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSAULT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BELIEVED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIGGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOOK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BRITISH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHANGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHARGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CIVIL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLAIMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COCAINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COURT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COWBOYS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CRIMINAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DALLAS">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="DAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DANCER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DECEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECLINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFAMATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DERIDE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DOWNS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DRUG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRUGS-AND-SEX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EASILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMBARRASSING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ERIK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FALSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FALSELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOLDBERG">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GUILTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HANDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HANDLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HELPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INVENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IRVIN">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="JAIL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JUDGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KELLEY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="KITTY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="KXAS-TV">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LABEL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LAWSUIT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFESTYLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINEMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARRIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAXIMUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICHAEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NINA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NO-">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFENSIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFICER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUT-OF-COURT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVERSEE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PARTIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAWN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLECOWBOYS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERIOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERJURY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERSUADED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAYED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAYER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PLEADED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLEADING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POLYGRAM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSSESSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRISON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PROBATION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROSECUTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PSYCHOLOGICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RADICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECEIVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECEIVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECENTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECOMMEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORTEDLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESENTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ROYAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SENTENCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SENTENCED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SETTLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SETTLEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEXUALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHAHRAVAN">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="SITUATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOBBED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TERMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TESTIFIED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TESTIMONY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOPLESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="UPS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="URGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VOLATILE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WILLIAM">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WYDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <edge from="ACCUSED" to="DALLAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ACCUSED" to="WILLIAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ACCUSER" to="SENTENCED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="ACCUSER" to="SENTENCED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="AGAINST" to="DALLAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLEGED" to="DRUGS-AND-SEX">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASSAULT" to="ALLEGATIONS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BELIEVED" to="SHAHRAVAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIGGER" to="CHESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRITISH" to="PRESS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BRITISH" to="PRESS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CHESS" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COCAINE" to="POSSESSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COUNTY" to="CRIMINAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COWBOYS" to="ACCUSER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COWBOYS" to="ACCUSER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COWBOYS" to="STAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CRIMINAL" to="JUDGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DALLAS" to="COUNTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DALLAS" to="COWBOYS">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="DALLAS" to="COWBOYS">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="DALLAS" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAN" to="WYDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAY" to="JAIL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFAMATION" to="LAWSUIT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DERIDE" to="KITTY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DERIDE" to="KITTY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DRUG" to="TRIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRUGS-AND-SEX" to="PARTIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLIER" to="TUESDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EASILY" to="PERSUADED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EMBARRASSING" to="TESTIMONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ERIK" to="WILLIAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FALSE" to="ALLEGATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FALSELY" to="ACCUSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="CIVIL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FILED" to="FEDERAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HELD" to="GUN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCLUDED" to="EMBARRASSING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRVIN" to="HELD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAIL" to="TERMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUDGE" to="DAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KITTY" to="KELLEY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="KITTY" to="KELLEY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LAWSUIT" to="AGAINST">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="LINEMAN" to="TESTIFIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHAEL" to="IRVIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="PLEADED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEEDED" to="PSYCHOLOGICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NINA" to="SHAHRAVAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NINA" to="SITUATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NO-" to="CONTEST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFENSIVE" to="LINEMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OUT-OF-COURT" to="SETTLEMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAYED" to="PART">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAYER" to="DECLINED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAYER" to="REPORTEDLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLEADED" to="GUILTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLEADING" to="NO-">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLICE" to="OFFICER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLYGRAM" to="GOLDBERG">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="POLYGRAM" to="GOLDBERG">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="POSSESSION" to="CHARGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRESS" to="DERIDE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="PRESS" to="DERIDE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="RADICALLY" to="CHANGED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECENTLY" to="SETTLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECOMMEND" to="SENTENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPORTEDLY" to="RECEIVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROYAL" to="BOOK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ROYAL" to="BOOK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SENTENCE" to="SHAHRAVAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SETTLED" to="DEFAMATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEXUALLY" to="ASSAULT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHAHRAVAN" to="ASSAULT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHAHRAVAN" to="CLAIMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHAHRAVAN" to="NEEDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHAHRAVAN" to="SOBBED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAR" to="MICHAEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATION" to="KXAS-TV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="PEOPLECOWBOYS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="STATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOPLESS" to="DANCER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRIAL" to="INCLUDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUESDAY" to="TESTIFIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="URGED" to="DALLAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VOLATILE" to="PERIOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILLIAM" to="EARLIER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR" to="PLEADING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

@@ -1,0 +1,575 @@
+<graph>
+  <node id="ADULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AHEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANGELES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ARBITRON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AUDIENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOOK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTEMPORARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CREEP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CROWD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEADLOCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DISNEY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DROPPING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EIGHTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENJOYED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEMALE-SKEWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINISHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLEX">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FORMAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FULL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOTHAM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEFTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIP-HOP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOLLYWOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="KABC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KABC-AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KFI-AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KID-ORIENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KIIS-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KKBT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KKBT-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KLSX-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KLVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KLVE-FM">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="KOST-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KPWR-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KROQ-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KRTH-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KSCA-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KTWV-FM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KTZN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LISTENED-TO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LISTENERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MIDDLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MINUSCULE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MODERN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUSCLE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NINTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OLDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OLDIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PACK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLACE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POPSTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POWER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PURVEYOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUARTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RADIO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RATINGS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REBOUNDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REMAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RETAINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RICHMOND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RIVAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROCKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEVENTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SHOWING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLIGHTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SNARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOUNDMAKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPANISH-LANGUAGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SPINNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPRING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STATIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUMMER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SWITCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TALK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISIONRADIO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TOPS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="URBAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="USUAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ADULTS" to="CONTEMPORARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGE" to="SOUNDMAKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANGELES" to="KLVE-FM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ANGELES" to="KLVE-FM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="ARBITRON" to="COUNT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ARBITRON" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOOK" to="CREEP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTEMPORARY" to="KOST-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISNEY" to="DEAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DISNEY" to="DEAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ENJOYED" to="HEFTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEMALE-SKEWED" to="TALK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINISHED" to="EIGHTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FLEX" to="MUSCLE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="FLEX" to="MUSCLE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="FULL" to="POINT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEFTY" to="EDGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIP-HOP" to="KPWR-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KID-ORIENTED" to="RADIO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KIIS-FM" to="TIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KKBT" to="DROPPING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KLSX-FM" to="REMAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KLVE" to="ENJOYED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KLVE-FM" to="RETAINED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KTWV-FM" to="TIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LISTENED-TO" to="RADIO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LISTENERS" to="AGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOS" to="ANGELES">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="LOS" to="ANGELES">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="MODERN" to="ROCKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OLDER" to="KLVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OLDIES" to="PURVEYOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLACE" to="FULL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POINT" to="AHEAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POPSTER" to="KIIS-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PURVEYOR" to="KRTH-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RACE" to="KFI-AM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RADIO" to="DISNEY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RADIO" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="RADIO" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="RADIO" to="STATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RATE" to="BOOK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RAY" to="RICHMOND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REMAIN" to="STATIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RIVAL" to="KABC-AM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROCKER" to="KROQ-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOUNDMAKER" to="KTWV-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPANISH-LANGUAGE" to="KLVE-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPANISH-LANGUAGE" to="KSCA-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPINNER" to="KKBT-FM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TELEVISIONRADIO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUMMER" to="QUARTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TALK" to="CROWD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TALK" to="RACE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TALK" to="RIVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TH" to="PLACE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOPS" to="RADIO">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="TOPS" to="RADIO">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="URBAN" to="SPINNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

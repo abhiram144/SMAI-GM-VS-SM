@@ -1,0 +1,432 @@
+<graph>
+  <node id="ANGLES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPEAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="APPELLATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPLIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AWARDS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CANCER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CORP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COURT">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="COVERING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAMAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DENIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DETECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISSENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTRIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EQUIPMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEBRUARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FINANCIAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FONAR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GE">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="GENERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMAGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="IMPOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROPERLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFRINGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFRINGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INITIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUDGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUDGMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JURY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LETTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIABILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOWER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MACHINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAGNETIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MASSIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="METHOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MRI">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PATENT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PRESIDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUOTES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RAISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REDUCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REJECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESONANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RULED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RULING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SIDE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUPREME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNOLOGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIRE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="APPEAL" to="COURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPELLATE" to="COURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BUSINESS" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CASE" to="REDUCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="DENIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="RULING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="SIDE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COURT" to="SIDE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="DAMAGE" to="AWARDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DENIED" to="GE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DETECT" to="CANCER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISSENT" to="LETTING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEBRUARY" to="RAISED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="JUDGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="JURY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FONAR" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GE" to="APPEAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GE" to="PATENT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GE" to="PATENT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GENERAL" to="ELECTRIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGH" to="COURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMAGE" to="PATENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPOSED" to="MASSIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPROPERLY" to="BASED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INITIAL" to="AWARDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JURY" to="INITIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LETTING" to="STAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOWER" to="COURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MACHINES" to="SOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAGNETIC" to="RESONANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MASSIVE" to="LIABILITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILLION" to="JUDGMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="REJECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MRI" to="MACHINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MRI" to="PATENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PATENT" to="CASE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="PATENT" to="CASE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="PATENT" to="COVERING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PATENT" to="HELD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="RESONANCE" to="IMAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="GE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUPREME" to="COURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="RULED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

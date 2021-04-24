@@ -1,0 +1,878 @@
+<graph>
+  <node id="ABSOLUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADULTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPEARING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AVERAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEDRIDDEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEEF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOVINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRAIN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CATTLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAUSED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CHARACTERISTICS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CJD">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLINICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLOSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLI">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONCLUDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSISTENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTAMINATED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COW">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CREUTZFELDT-JAKOB">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEATH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DECADES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEGENERATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DELUSIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEMENTIA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEPRESSION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEVELOP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEVELOPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIAGNOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIFFICULTY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISEASE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DISORDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISTINCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EATING">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EDINBURGH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EEG">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ELECTROENCEPHALOGRAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENCEPHALOPATHIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENCEPHALOPATHY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EVENTUALLY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EVIDENCE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EXPERIENCED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FATAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEATURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIGHT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FORGETFULNESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FORMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRANCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GAIT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GENERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALLUCINATIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOSPITAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCONTINENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCUBATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFECTION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFECTIOUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INVESTIGATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVOLUNTARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LANCET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LONGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MAJORITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARTIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEMORY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MOUTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEUROLOGICAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NVCJD">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="OCCURRED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ONSET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUTBREAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAIN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PARANOID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PATIENTS">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="PATTERN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERIOD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PROBLEMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROGRESSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PSYCHIATRIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PSYCHIATRIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PSYCHOTIC-LIKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RADIOSURGERY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RARELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REPORTED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCHIZOPHRENIA-LIKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOTLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SENSORY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEVERE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SHARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIGNS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINGLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOMETIMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="SPEAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPONGIFORM">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SPORADIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPREAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STAGGERING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURVEILLANCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SURVIVAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SURVIVE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SYMPTOMS">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="TAKING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAMKINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERESA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRADITIONALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREMORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUMOR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYPICAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TYPICALLY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIFORM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNSTEADINESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNSTEADY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNUSUAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="UPS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="URINARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIANT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VARIATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WALK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WARRANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WESTERN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WROTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YOUNG">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ZEIDLER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AUTHOR" to="WROTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AVERAGE" to="AGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOVINE" to="SPONGIFORM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRAIN" to="DEGENERATIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRAIN" to="TUMOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BRAIN" to="TUMOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CALLED" to="NVCJD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CATTLE" to="EXPERIENCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CATTLE" to="INFECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAUSED" to="DEMENTIA">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CAUSED" to="DEMENTIA">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CJD" to="SURVEILLANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTAMINATED" to="BEEF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTAMINATED" to="NEUROLOGICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CREUTZFELDT-JAKOB" to="DISEASE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="DEGENERATIVE" to="DISORDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOP" to="STAGGERING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOPED" to="FORGETFULNESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIFFICULTY" to="WALK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISEASE" to="SURVEILLANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISORDER" to="THOUGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="CATTLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="CONTAMINATED">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="EDINBURGH" to="SCOTLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENCEPHALOPATHIES" to="TEND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENCEPHALOPATHY" to="BSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EVENTUALLY" to="COMA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EVENTUALLY" to="PROGRESSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPERIENCED" to="PSYCHIATRIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPERIENCED" to="TREMORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FACE" to="MOUTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FATAL" to="BRAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEET" to="FACE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAIT" to="FORGETFULNESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAIT" to="INVOLUNTARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENERAL" to="HOSPITAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HAND" to="FEET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="SPONGIFORM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCUBATION" to="PERIOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFECTION" to="CAUSED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="INFECTION" to="CAUSED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="INFECTIOUS" to="AGENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVOLUNTARY" to="MOVEMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG" to="INCUBATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONGER" to="PERIOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAD" to="COW">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="MARTIN" to="ZEIDLER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEMORY" to="LOS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="CREUTZFELDT-JAKOB">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEUROLOGICAL" to="PROBLEMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEUROLOGICAL" to="SYMPTOMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEUROLOGICAL" to="TISSUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARANOID" to="DELUSIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PATIENTS" to="DIAGNOSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PATIENTS" to="EXPERIENCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PATIENTS" to="SOMETIMES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROBLEMS" to="SET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PSYCHIATRIC" to="SYMPTOMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PSYCHOTIC-LIKE" to="SYMPTOMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RADIOSURGERY" to="UPS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="RADIOSURGERY" to="UPS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="RARELY" to="CASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="CONCLUDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHIZOPHRENIA-LIKE" to="DELUSIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SENSORY" to="SYMPTOMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEVERE" to="DEPRESSION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SEVERE" to="NEUROLOGICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEVERE" to="PAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SINGLE" to="STRAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOMETIMES" to="SURVIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPONGIFORM" to="ENCEPHALOPATHIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPONGIFORM" to="ENCEPHALOPATHY">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SPORADIC" to="CJD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAGGERING" to="GAIT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="STORIES" to="NVCJD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SURVEILLANCE" to="UNIT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SYMPTOMS" to="ADD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SYMPTOMS" to="PARANOID">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TAKING" to="YEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERESA" to="TAMKINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRADITIONALLY" to="CJD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TREMORS" to="DIFFICULTY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUMOR" to="SURVIVAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TUMOR" to="SURVIVAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TYPICAL" to="CASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TYPICAL" to="ELECTROENCEPHALOGRAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNSTEADY" to="GAIT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNUSUAL" to="EEG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNUSUAL" to="SYMPTOMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UPS" to="BRAIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="UPS" to="BRAIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="URINARY" to="INCONTINENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VAST" to="MAJORITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WESTERN" to="GENERAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YOUNG" to="ADULTS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="YOUNG" to="PATIENTS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+</graph>

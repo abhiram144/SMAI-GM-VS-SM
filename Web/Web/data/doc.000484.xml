@@ -1,0 +1,863 @@
+<graph>
+  <node id="ADJUSTED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ADJUSTMENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ADMIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADOLESCENTS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ADULTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AFFECT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ALCOHOL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALCOHOLISM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANNUAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSOCIATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUGUST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AVERAGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BENEFIT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLAKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BLAMED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOWDEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BREAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BREAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BREAST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CANCER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CATEGORY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CENTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHICAGO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHILDHOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CINCINNATI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLINICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMUNITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONCLUDE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONNECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONNECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTRAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEEMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPAUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DETERMINATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEVELOP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEVELOPMENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEVELOPMENTAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DINNER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DISCOVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCOVERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISORDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRUG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRUG-FREE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EATING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELEMENTARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMOTIONALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMPHASIZE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENCOURAGEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ESCHEW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPLAINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACTORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAMILIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAMILY">
+    <attribute name="FREQUENCY" value="17" />
+  </node>
+  <node id="FEEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEMALE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FREQUENCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FREQUENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GRADE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROWING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HARDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEAR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEART">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEIGHT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HELPS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOMES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPORTANT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INCREASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDICATOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTERVIEW">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTERVIEWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVESTIGATORS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JENNIE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEARN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIKELIHOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOOKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LUNCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MALE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MEALS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="MEALTIMES">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="MEETING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEMBERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MUNDELL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NARRATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOISE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NON-TRADITIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NONADJUSTED">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="OLDER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PARENTS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARTICIPANTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PEERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSITIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POWERFUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREDICT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREVENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREVENTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROFILE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PSYCHOLOGICAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PSYCHOLOGIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REDUCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGULARLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELATIONSHIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVEALED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="SCHOOL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SIBLING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIMPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIT-DOWN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLIGHTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOCIALIZATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPERRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRONGLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUCCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEEN">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRADITIONAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TWO-PARENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNIVERSITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WANTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WELL-ADJUSTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHETHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YOUNGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YOUTH">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="ZEISZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ADOLESCENTS" to="ADJUSTMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ADOLESCENTS" to="DEVELOPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ADOLESCENTS" to="LEARN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ADULTS" to="FAMILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ADULTS" to="MEMBERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AFFECT" to="HEART">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="AFFECT" to="HEART">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="AGE" to="GENDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="PSYCHOLOGICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANNUAL" to="MEETING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASSOCIATION" to="ANNUAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AVERAGE" to="SLIGHTLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BLAKE" to="SPERRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BREAK" to="BREAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BREAST" to="CANCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BREAST" to="CANCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CANCER" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CANCER" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CHICAGO" to="DEPAUL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILDREN" to="GROWING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CINCINNATI" to="CENTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMUNITY" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONCLUDE" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTENT" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEPAUL" to="UNIVERSITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOP" to="NARRATIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOPMENTAL" to="DISORDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRUG-FREE" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="MEALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELEMENTARY" to="SCHOOL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EMOTIONALLY" to="CONTENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ESCHEW" to="ALCOHOL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAMILY" to="DINNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAMILY" to="LUNCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAMILY" to="MEALS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FAMILY" to="MEALS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FAMILY" to="MEALTIMES">
+    <attribute name="TEXT" value="6" />
+  </edge>
+  <edge from="FAMILY" to="MEMBERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAMILY" to="TYPE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="FEEL" to="EMOTIONALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FREQUENT" to="FAMILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="AUGUST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENDER" to="FAMILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEAR" to="LOS">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="HEAR" to="LOS">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="HEART" to="BREAST">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="HEIGHT" to="AFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HEIGHT" to="AFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HELPED" to="BOWDEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HELPS" to="CHILDREN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPORTANT" to="INDICATOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPORTANT" to="PART">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPORTANT" to="PREVENTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCREASED" to="LIKELIHOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INTERVIEW" to="HELPED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVESTIGATORS" to="CONCLUDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JENNIE" to="ZEISZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MALE" to="OLDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MALE" to="YOUNGER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEALS" to="REGULARLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEALTIMES" to="FREQUENCY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEALTIMES" to="SPENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NOISE" to="BLAMED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NOISE" to="BLAMED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NON-TRADITIONAL" to="HOMES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARENTS" to="HELPS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEERS" to="RELATIONSHIP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREDICT" to="ADOLESCENTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREVENT" to="YOUTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREVENTION" to="VARIABLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PSYCHOLOGICAL" to="ASSOCIATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PSYCHOLOGICAL" to="INTERVIEW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PSYCHOLOGICAL" to="PROFILE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REDUCED" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REGULAR" to="FAMILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="CONTEND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="INTERVIEWED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="LOOKED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REVEALED" to="POSITIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHOOL" to="SUCCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIMPLE" to="QUESTIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIT-DOWN" to="MEALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOCIALIZATION" to="PROCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERRY" to="BOWDEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="FAMILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRONGLY" to="RELATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="AUTHOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="PARTICIPANTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEEN" to="BENEFIT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="TEEN" to="BENEFIT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="TEEN" to="HEAR">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TEEN" to="HEAR">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRADITIONAL" to="TWO-PARENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TWO-PARENT" to="FAMILIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TWO-PARENT" to="HOMES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WORK" to="HARDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YOUTH" to="DEVELOPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ZEISZ" to="ADMIT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ZEISZ" to="GRADE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

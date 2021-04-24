@@ -1,0 +1,707 @@
+<graph>
+  <node id="ABILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACCIDENT">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="AFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIRBAG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALBANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALLOWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALTERNATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPLE">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ARM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUGUST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHORITIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BODYGUARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRACE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BREAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRUISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUCKLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BURN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAR">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CHANCE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLLISION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMBINATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CUT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPARTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIANA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRINK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENHANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXPERTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FASTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FATAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLEW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOLD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FORCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRENCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRONT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="FRONT-END">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HARDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELPFUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGH-SPEED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGHLIGHTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HITTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HORMONE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HYPERTENSION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="IMPORTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INJURED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INJURIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JOB">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUDGMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KIND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEARNED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LEAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LESSONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIFE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MEDICATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MENOPAUSAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MOTOR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MULTIPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NECK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NON-PRESCRIPTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCCURRED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PASSENGERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="PERSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POTENTIALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESCRIPTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRINCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROPELLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RECOVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REES-JONES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RELAX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ROAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAFELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAFER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAFETY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEATBELT">
+    <attribute name="FREQUENCY" value="11" />
+  </node>
+  <node id="SEATS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHOULDER-HARNESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SITTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPOKESPERSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOP">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRAINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRAP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STROKE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SURVIVAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURVIVE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SURVIVED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TAKING">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="TAMKINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="THERESA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIPS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRAGIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRAINING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREAT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TREVOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNUSUAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VEHICLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WALES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEARING">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="WHETHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINDSHIELD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOMEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WORST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ACCIDENT" to="HIGHLIGHTS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="ACCIDENT" to="HIGHLIGHTS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="AFFECT" to="ABILITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLOWED" to="REES-JONES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPLE" to="SPOKESPERSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BODYGUARD" to="TREVOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAR" to="SEATS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAR" to="SURVIVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILDREN" to="CAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COLLISION" to="MOTOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMING" to="APPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CUT" to="STROKE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CUT" to="STROKE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="DIANA" to="ACCIDENT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIANA" to="ACCIDENT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIANA" to="LIFE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIANA" to="PRINCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRIVE" to="SAFELY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENDED" to="DIANA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FATAL" to="ACCIDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRENCH" to="AUTHORITIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRONT" to="SEATS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRONT" to="WINDSHIELD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRONT-END" to="COLLISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOOD" to="JUDGMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HELPFUL" to="TIPS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGH-SPEED" to="COLLISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHLIGHTS" to="SEATBELT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HIGHLIGHTS" to="SEATBELT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HYPERTENSION" to="CUT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HYPERTENSION" to="CUT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="LAP" to="BELT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MENOPAUSAL" to="WOMEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MENOPAUSAL" to="WOMEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MOTOR" to="VEHICLE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="MULTIPLE" to="LESSONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OCCURRED" to="AUGUST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEOPLE" to="BRACE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIALLY" to="FATAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAFETY" to="EXPERTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEATBELT" to="SAFETY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="SEATBELT" to="SAFETY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="SEATS" to="ENHANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEATS" to="PASSENGERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHOULDER-HARNESS" to="TYPE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="DEPARTMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOP" to="FAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOP" to="TAKING">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOP" to="TAKING">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STORIES" to="SEATBELT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAINED" to="NECK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRAP" to="BURN">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="STROKE" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STROKE" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SURVIVE" to="POTENTIALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TAKING" to="HORMONE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TAKING" to="HORMONE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TAKING" to="MEDICATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERESA" to="TAMKINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOM" to="APPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRAGIC" to="ACCIDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TREAT" to="HYPERTENSION">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TREAT" to="HYPERTENSION">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TREVOR" to="REES-JONES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VEHICLE" to="ACCIDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEARING" to="SEATBELT">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="WHETHER" to="SEATBELT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WOMEN" to="STOP">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WOMEN" to="STOP">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WORST" to="THINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

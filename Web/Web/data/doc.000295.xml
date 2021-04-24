@@ -1,0 +1,740 @@
+<graph>
+  <node id="ACID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGRICULTURAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGRICULTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALCOHOL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANTIOXIDANT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BALLPARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BENEFICIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEVERAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOOST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUTTER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALORIE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CARDIOVASCULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAROLINA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHEMICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLLEAGUES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPOUND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONDUCTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSUMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSUMPTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COUNTERINTUITIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COVERING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPARTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISEASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EATING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDIBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXTRA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FIBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRANK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUNDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUNGI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GLASS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GUESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="HEALTHY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEART">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFANT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INFECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INSTITUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INSULIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LANDFILL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LEADER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEGUMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEVELS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIQUOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOCATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOWER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LOWLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MACADAMIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MCMICHAEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEETING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICROGRAMS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MODERATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NON-ROASTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NORTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NOTED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NUTS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OUNCES">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARTIALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEANUTS">
+    <attribute name="FREQUENCY" value="15" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PILL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POLYMER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRESENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROMPTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROTECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RALEIGH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RED">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="REDUCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REMAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPLACE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPUTABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESPONSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESVERATROL">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ROASTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ROBERT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUNNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAMPLES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SANDERS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SANDWICH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCIENTISTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SHOT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SKIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOCIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPANISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STUDIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="SUBSTANCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SUGGESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURPRISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAMKINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TERMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERESA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIMOTHY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNIVERSITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="USDA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VEGAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VINO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VINTAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIRGINIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VITAMIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WHITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINE">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ADDED" to="BOOST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGRICULTURAL" to="RESEARCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALCOHOL" to="CONTENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="CHEMICAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANTIOXIDANT" to="COMPOUND">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BUTTER" to="SANDWICH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CALLED" to="RESVERATROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARDIOVASCULAR" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAROLINA" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CENTER" to="LOCATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHEMICAL" to="SOCIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COLLEAGUES" to="ROBERT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPOUND" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="NUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EATING" to="PEANUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EDIBLE" to="NUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EFFECT" to="NOTED">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="EFFECT" to="NOTED">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="EXTRA" to="RESVERATROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAT" to="CONTENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOLIC" to="ACID">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="EFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HEALTH" to="EFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="TERMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTHY" to="EDIBLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEART" to="DISEASE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="HIGH" to="FAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCLUDING" to="SPANISH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFANT" to="HEALTH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INFANT" to="HEALTH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INSULIN" to="SHOT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INSULIN" to="SHOT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LA" to="VEGAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOWER" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOWLY" to="LEGUMES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MACADAMIA" to="NUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MODERATE" to="CONSUMPTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NON-ROASTED" to="SAMPLES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NORTH" to="CAROLINA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OUNCES" to="CONSUMED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARTIALLY" to="FUNDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PAST" to="STUDIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEANUTS" to="BUTTER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="PEANUTS" to="INSTITUTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEANUTS" to="SOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PEOPLE" to="HEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLYMER" to="PILL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="POLYMER" to="PILL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="PRODUCE" to="RESVERATROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RED" to="SKIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RED" to="WINE">
+    <attribute name="TEXT" value="4" />
+  </edge>
+  <edge from="REPLACE" to="INSULIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REPLACE" to="INSULIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REPUTABLE" to="SCIENTISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCH" to="CENTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCH" to="LEADER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROASTED" to="SAMPLES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROBERT" to="MCMICHAEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SANDERS" to="RESEARCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEED" to="COAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SKIN" to="COVERING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOCIETY" to="MEETING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPANISH" to="RUNNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="UNIVERSITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="PEANUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="INCLUDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERESA" to="TAMKINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIMES" to="WEEK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIMOTHY" to="SANDERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VINTAGE" to="VINO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIRGINIA" to="PEANUTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VITAMIN" to="FOLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WHITE" to="WINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WINE" to="BEER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WINE" to="LOWER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

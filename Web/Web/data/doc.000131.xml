@@ -1,0 +1,577 @@
+<graph>
+  <node id="ACT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALBERT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIOCHEMISTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLOOD">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="BODY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BRAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BROKEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BURN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CELLS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CHARRON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLLEGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPLETELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPLEX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTROL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPARTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIABETES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DIRECTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOUBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EFFECTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EINSTEIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELEVATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXERCISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPLAINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENETIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENETICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GLUCOSE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HORMONE">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDEPENDENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INDUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFUSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFUSING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INSULIN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="INVESTIGATORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEPTIN">
+    <attribute name="FREQUENCY" value="12" />
+  </node>
+  <node id="LEPTIN-DEFICIENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEVELS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIPIDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LOWER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAUREEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="METABOLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="METABOLISM">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MICE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MUSCLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUTATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUTATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATURE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OBESE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OBESITY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="OPERATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSSIBLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POTENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROMPT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REDUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGULATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RELEASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RELEASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REMAINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESPONSE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SENIOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SENSITIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SENSITIVITY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIMILAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STEADY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STIMULATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STIMULATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGAR">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="SUGGESTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGGESTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYMPTOMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERMOSTAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THURSDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREATMENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TRIGGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIQUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WROTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ALBERT" to="EINSTEIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIOCHEMISTRY" to="DEPARTMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BLOOD" to="GLUCOSE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BLOOD" to="SUGAR">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="BLOOD" to="SUGAR">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="BURN" to="FAT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELLS" to="LOSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPLETELY" to="INDEPENDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPLEX" to="METABOLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONTROL" to="BLOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EFFECTIVE" to="TREATMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EINSTEIN" to="COLLEGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELEVATED" to="BLOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAT" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAT" to="METABOLISM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINDINGS" to="EXPLAINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENETIC" to="MUTATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENETICALLY" to="MUTATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HORMONE" to="LEPTIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HORMONE" to="LONG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HORMONE" to="REGULATE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="HORMONE" to="REGULATE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="HORMONE" to="STIMULATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDUCE" to="COMPLEX">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFUSED" to="DIRECTLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFUSING" to="MICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INSULIN" to="LEVELS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="INVESTIGATORS" to="MAUREEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN" to="ACT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN" to="EFFECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN" to="INDUCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN" to="INFUSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN" to="TREATMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEPTIN-DEFICIENT" to="GENETICALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEVELS" to="REMAINED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIPIDS" to="METABOLISM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOWER" to="DOSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAUREEN" to="CHARRON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="METABOLIC" to="RESPONSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSCLE" to="TISSUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUTATED" to="MICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OBESE" to="HUMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OBESITY" to="HORMONE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="OBESITY" to="HORMONE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="OPERATING" to="COMPLETELY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSSIBLY" to="INDEPENDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENT" to="RESPONSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROMPT" to="MUSCLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROMPT" to="WEIGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REGULATE" to="BLOOD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="REGULATE" to="BLOOD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="REPORTED" to="SENIOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SENIOR" to="INVESTIGATORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIDE" to="EFFECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STIMULATE" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STIMULATE" to="SUGAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORED" to="GLUCOSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="LEPTIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="SUGGESTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUGAR" to="LEVELS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUGAR" to="METABOLISM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THURSDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEIGHT" to="LOS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

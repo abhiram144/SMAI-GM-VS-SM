@@ -1,0 +1,583 @@
+<graph>
+  <node id="ADVOCATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFRAID">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANTITRUST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPRAISAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATTEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BANC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BANK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAMPAIGN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CEO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHRISTINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COHERENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMISSIONER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMUNICATIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMUNITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFERENCE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CONSUMER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONVENE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNSEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEALERSHIPS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DENOUNCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCUSS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOMINATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDUCATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFORT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXPANSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GATES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GLOBAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GORE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROWTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROVED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTERVIEW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTIMIDATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTIMIDATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOHN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KATZ">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LABELED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAWYER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MCNEALY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICROSOFT">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="MICROSYSTEMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONOPOLISTIC">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MOTOROLA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NADER">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="NETSCAPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OIL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPEN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PLANS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRESIDENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RALPH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REBACK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ROBERTA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROCKEFELLER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOTT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEES">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEMICONDUCTOR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SILICON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOFTWARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPEAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPEAKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRATEGIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TACTICS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNIQUE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRADE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNPRECEDENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VALLEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARNEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WANTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WILLIAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIRED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ZDNET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ADVOCATE" to="RALPH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGAINST" to="MICROSOFT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="AGAINST" to="MICROSOFT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="AL" to="GORE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANTITRUST" to="LAWYER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BANK" to="CAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BUSINESS" to="COMMUNITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CABLE" to="MEDIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CALLED" to="MICROSOFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAMPAIGN" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CAMPAIGN" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CAR" to="DEALERSHIPS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CEO" to="SCOTT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CEO" to="WILLIAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHRISTINE" to="VARNEY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COHERENT" to="APPRAISAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMISSIONER" to="CHRISTINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONFERENCE" to="NOV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONSUMER" to="ADVOCATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONVENE" to="CONFERENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DOMINATE" to="OIL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="TRADE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GARY" to="REBACK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENERAL" to="COUNSEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GLOBAL" to="STRATEGIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPROVED" to="SEMICONDUCTOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="IMPROVED" to="SEMICONDUCTOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INDUSTRY" to="GROWTH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INDUSTRY" to="GROWTH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INTIMIDATING" to="TACTICS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVITED" to="MICROSOFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LABELED" to="MICROSOFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAWYER" to="GARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEDIA" to="BANK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSOFT" to="CEO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSOFT" to="EFFORT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSYSTEMS" to="CEO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONOPOLISTIC" to="TECHNIQUE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="MOTOROLA" to="SEES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MOTOROLA" to="SEES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NADER" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NADER" to="OPEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="NADER" to="OPEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="NETSCAPE" to="COMMUNICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="CAMPAIGN">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="OPEN" to="CAMPAIGN">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRESIDENT" to="AL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RALPH" to="NADER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROBERTA" to="KATZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROCKEFELLER" to="WANTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCOTT" to="MCNEALY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEES" to="IMPROVED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SEES" to="IMPROVED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SEMICONDUCTOR" to="INDUSTRY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SEMICONDUCTOR" to="INDUSTRY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SILICON" to="VALLEY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOFTWARE" to="COMPANY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="NADER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUN" to="MICROSYSTEMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRADE" to="COMMISSIONER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRADE" to="PLANS">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TRADE" to="PLANS">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TUESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VALLEY" to="ANTITRUST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VARNEY" to="SILICON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VICE" to="PRESIDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILLIAM" to="GATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

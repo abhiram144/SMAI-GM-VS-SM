@@ -1,0 +1,650 @@
+<graph>
+  <node id="ACKNOWLEDGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIDS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AIR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AMELIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUDIO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUSTRIAN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BELGIUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BILLION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BRAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRITISH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BROADCAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRUSSELS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CANCEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASINO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHOICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CLEARANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLOUDS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COALITION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMISSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMUNIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONDITIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONDITIONS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CONSUMER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTROL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CURRENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEATH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DEBT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEBT-LADEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="DEFENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DELAYED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DETERIORATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIANA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DIGITAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTRONIC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="END">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EQUIPMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EU">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="EUROPE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EUROPEAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EXPECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FERGUSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINANCIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIRM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FRANCE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FRANCS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FRENCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FROZEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GIANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOVERNMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRYTHOMSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INJECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOSPIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAUDA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LEADER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEVELS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIONEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIQUIDATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAKES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDIA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MINISTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MULTIMEDIA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OFFER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OWNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERMISSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PHILIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POPULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POSITION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POWER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRINCIPLES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRIVATIZATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROSCAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RCA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECAPITALIZE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESCUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SECOND-LARGEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SNAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOCIALIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATE-CONTROLLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNOLOGY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEFUNKEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOMSON">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="THOMSON-CSF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TMM">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TORRES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOUGHEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TROUBLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIDEO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ACKNOWLEDGED" to="LEADER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMELIA" to="TORRES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASKED" to="EU">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUSTRIAN" to="LAUDA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AUSTRIAN" to="LAUDA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BILLION" to="FRANCS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BRITISH" to="MEDIA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BRITISH" to="MEDIA">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BROADCAST" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRUSSELS" to="BELGIUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLEAR" to="THOMSON">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CLEAR" to="THOMSON">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COMPANY" to="MAKES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONDITIONAL" to="CLEARANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONSUMER" to="ELECTRONIC">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CURRENT" to="LEVELS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEBT-LADEN" to="TMM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFENCE" to="ELECTRONIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIANA" to="DEATH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DIANA" to="DEATH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DIGITAL" to="TECHNOLOGY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELECTRONIC" to="FIRM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELECTRONIC" to="GIANT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELECTRONIC" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EU" to="DECISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EU" to="PERMISSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EU" to="SOURCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EUROPE" to="SECOND-LARGEST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EUROPEAN" to="COMMISSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EUROPEAN" to="MARKET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPECT" to="DECISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FERGUSON" to="PROSCAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINAL" to="EU">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINANCIAL" to="POSITION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FIRM" to="EUROPEAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FIRM" to="THOMSON-CSF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRANCE" to="ASKED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRANCE" to="SNAP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRANCS" to="LEAVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRENCH" to="GOVERNMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GE" to="FERGUSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GIANT" to="THOMSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="THOMSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAUDA" to="AIR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LAUDA" to="AIR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LIONEL" to="JOSPIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAKES" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARKET" to="SHARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MINISTER" to="LIONEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MULTIMEDIA" to="AIDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="MULTIMEDIA" to="AIDS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="MULTIMEDIA" to="EUROPE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFER" to="CASINO">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="OFFER" to="CASINO">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POPULAR" to="BRAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSITION" to="DETERIORATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRIME" to="MINISTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESCUE" to="DEBT-LADEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SECOND-LARGEST" to="CONSUMER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SNAP" to="ELECTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOURCE" to="TOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATE-CONTROLLED" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="INDUSTRYTHOMSON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEFUNKEN" to="GE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="VIDEO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THOMSON" to="MULTIMEDIA">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="THOMSON" to="MULTIMEDIA">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="THOMSON" to="SA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TMM" to="OWNED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOLD" to="REUTERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOUGHEN" to="CONTROL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TOUGHEN" to="CONTROL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="TROUBLED" to="COMPANY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIDEO" to="AUDIO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

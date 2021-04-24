@@ -1,0 +1,417 @@
+<graph>
+  <node id="ACTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACTOR">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AREA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BANNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEIJING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLACKLIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUDGET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CEILING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHINA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHINESE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COSTLY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEMAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIRECTOR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EPISODE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EXTREMELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GANG">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GUANGDONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HONORED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOUSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ITALY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="JOINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LANDIS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LESSER-KNOWN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAINLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEMORABLE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MONEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARTICIPATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POPULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POST-PRODUCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRE-">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREMIUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROBLEMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCER">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="PRODUCTION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RECEIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVIEW">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHANDONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHANGHAI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SICHUAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAGE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TAIWANESE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEVISIONCHINA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRACED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TV">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WILLIE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOMEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YIDDISH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YUAN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ZHEJIANG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ACTOR" to="DEMAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ACTOR" to="RECEIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AREA" to="SET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEIJING" to="SHANGHAI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHINESE" to="PRODUCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CHINESE" to="PRODUCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="COSTLY" to="TV">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COSTLY" to="TV">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIRECTOR" to="LANDIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DIRECTOR" to="LANDIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXTREMELY" to="POPULAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GUANGDONG" to="SICHUAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HONG" to="KONG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HOUSE" to="MOVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOINED" to="FORCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KONG" to="PRODUCTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LANDIS" to="HONORED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LANDIS" to="HONORED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LEAD" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LESSER-KNOWN" to="ACTOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARTICIPATE" to="PRODUCER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PAY" to="PREMIUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POPULAR" to="ACTOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRODUCER" to="GANG">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="PRODUCER" to="GANG">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="PRODUCTION" to="BUDGET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRODUCTION" to="HOUSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REVIEW" to="STAGE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REVIEW" to="STAGE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SET" to="CEILING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHANDONG" to="ZHEJIANG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHANGHAI" to="GUANGDONG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SICHUAN" to="SHANDONG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TELEVISIONCHINA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="PRODUCER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TV" to="ACTOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="TV" to="ACTOR">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="WEDNESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILLIE" to="BRENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YIDDISH" to="WOMEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="YIDDISH" to="WOMEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+</graph>

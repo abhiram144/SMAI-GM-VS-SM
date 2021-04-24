@@ -1,0 +1,687 @@
+<graph>
+  <node id="ABC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AHA">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="AIR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIRWAYS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANNALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANTIBIOTICS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="APPLICABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARREST">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ASSEMBLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSOCIATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSOCIATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BECKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEGIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BILL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BREATH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BYSTANDER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CARDIAC">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CARDIOPULMONARY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHAIR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHANGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHANGED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHECK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHEST">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CHICAGO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHOKING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CIRCULATION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMPARED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPRESSION">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CONDITIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFIRM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CPR">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="CURRENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DEFIBRILLATOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCUSSIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DROWNING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMERGENCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENCOURAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ETHICS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EVIDENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPERTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIBRILLATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIRE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FOLLOW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GASP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GUIDELINES">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEART">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPORTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPORTANT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INDIVIDUALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFORMATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INITIATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTENDED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOURNAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="KIND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIFESAVING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONG-TERM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LUNG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEANTIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDICINE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="METHOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MINUTES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MOMENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOUTH-TO-MOUTH">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="NEEDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PANEL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PATIENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PERFORM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PERSON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PNEUMONIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRESCRIPTION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PROBLEMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROFESSOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLISHED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PULSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUMP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUALITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUIVERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFERRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELEASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RESPIRATORY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESUSCITATION">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVIEW">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SCHEDULED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCIENTISTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHOCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIMILAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SQUEAMISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STAFF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOMACH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STUDIES">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUDDEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUFFICIENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGGESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURVIVAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TAMKINS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THERESA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="THINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIPPING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRADITIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREATED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNIVERSITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UTMOST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VENTILATION">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="VENTRICULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VICTIMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WITNESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WROTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ABC" to="METHOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AHA" to="PANEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="HEART">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANTIBIOTICS" to="PRESCRIPTION">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="ANTIBIOTICS" to="PRESCRIPTION">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="ASSOCIATE" to="PROFESSOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BECKER" to="ASSOCIATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="CPR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BILL" to="THIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BREATH" to="CHECK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BYSTANDER" to="CPR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARDIAC" to="ARREST">
+    <attribute name="TEXT" value="5" />
+  </edge>
+  <edge from="CARDIOPULMONARY" to="RESUSCITATION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CASE" to="MOUTH-TO-MOUTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHANGE" to="CURRENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHECK" to="BREATH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHECK" to="PULSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHEST" to="COMPRESSION">
+    <attribute name="TEXT" value="6" />
+  </edge>
+  <edge from="CHOKING" to="VICTIMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CIRCULATION" to="REPORT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CPR" to="COMPARED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CPR" to="GUIDELINES">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CPR" to="GUIDELINES">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CURRENT" to="CARDIOPULMONARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CURRENT" to="ISSUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DATA" to="CONFIRM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DATA" to="PUBLISHED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EMERGENCY" to="MEDICINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENCOURAGE" to="CIRCULATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPERTS" to="ASSEMBLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FIBRILLATION" to="CONDITIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOOD" to="QUALITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEART" to="ASSOCIATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEART" to="QUIVERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INITIATE" to="CPR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOURNAL" to="CIRCULATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOURNAL" to="RESUSCITATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LANCE" to="BECKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONG-TERM" to="SURVIVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEDICAL" to="JOURNAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOUTH-TO-MOUTH" to="BREATH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOUTH-TO-MOUTH" to="RESUSCITATION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="MOUTH-TO-MOUTH" to="VENTILATION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="PEOPLE" to="TREATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERFORM" to="CARDIOPULMONARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERFORM" to="MOUTH-TO-MOUTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUBLIC" to="INFORMATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUMP" to="BLOOD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUALITY" to="CHEST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESPIRATORY" to="CARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SQUEAMISH" to="BYSTANDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAFF" to="SCIENTISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOMACH" to="CONTENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="CPR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="SUGGESTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUDDEN" to="CARDIAC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEN" to="MINUTES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THERESA" to="TAMKINS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THIES" to="REFERRING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THIES" to="STAFF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRADITIONAL" to="CPR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UTMOST" to="IMPORTANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VENTRICULAR" to="FIBRILLATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WITNESS" to="CARDIAC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

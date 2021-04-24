@@ -1,0 +1,658 @@
+<graph>
+  <node id="ACCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACCUSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPEAL">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="APPEALED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ARGUED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARKANSAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CITIZEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLINTON">
+    <attribute name="FREQUENCY" value="13" />
+  </node>
+  <node id="COFFEE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONCERNS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSERVATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSPIRACY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTINUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONVICTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONVICTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COURT">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="CRUCIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFENSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DENIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISSENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ESTATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVALUATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAIRFAX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRAUD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FULL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOVERNOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GUY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HIGHEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HILLARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMMIGRATION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFORMATION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ISSUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JAMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JIM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUDGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JUDICIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JUSTICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LADY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAJOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MCDOUGAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NETWORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="NON-PROFIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFICIALS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ONETIME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORDERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORGANIZATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARTNER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRESENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESIDENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PRIMARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRINTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROVIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="QUESTIONING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFUSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REJECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REJECTS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="RELEASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REQUESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ROCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RODHAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCANDAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUBPOENAED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUCCESSOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUPREME">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="SUSAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAPES">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TESTIFIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TESTIMONY">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THEN-ARKANSAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRANSCRIPTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRIAL">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="TUCKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNEDITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNITED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="UPHELD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIDEOTAPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIDEOTAPES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="VIRGINIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEATHER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WHITEWATER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WITNESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRONGDOING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AMERICAN" to="PUBLIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPEAL" to="UPHELD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BUSINESS" to="PARTNER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CITIZEN" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CITIZEN" to="UNITED">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="CLINTON" to="TESTIFIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLINTON" to="TESTIMONY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CLINTON" to="TESTIMONY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CLINTON" to="VIDEOTAPED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COFFEE" to="TAPES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="COFFEE" to="TAPES">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CONSERVATIVE" to="NON-PROFIT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COST" to="APPEAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="COST" to="APPEAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="COURT" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="REJECTS">
+    <attribute name="TEXT" value="3" />
+    <attribute name="LINKS" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COURT" to="REJECTS">
+    <attribute name="TEXT" value="3" />
+    <attribute name="LINKS" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COURT" to="REJECTS">
+    <attribute name="TEXT" value="3" />
+    <attribute name="LINKS" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CRUCIAL" to="ROLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFENSE" to="WITNESS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="ELECTED" to="OFFICIALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ESTATE" to="PARTNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAIRFAX" to="VIRGINIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FULL" to="PRINTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="BASED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="CITIZEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="SEEK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GUY" to="TUCKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGH" to="COURT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HIGH" to="COURT">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HIGHEST" to="ELECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HILLARY" to="RODHAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMIGRATION" to="COST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="IMMIGRATION" to="COST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ISSUE" to="PRESENTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JIM" to="GUY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUDGE" to="DECISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUDGE" to="REFUSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUDICIAL" to="RECORD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JUSTICE" to="REJECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LADY" to="HILLARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAJOR" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="DENIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATION" to="HIGHEST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NETWORK" to="APPEALED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEWS" to="ORGANIZATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NON-PROFIT" to="CITIZEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ONETIME" to="WHITEWATER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORGANIZATION" to="INCLUDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLITIC" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRESIDENT" to="CLINTON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRIMARY" to="ISSUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRINTED" to="TRANSCRIPTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUBLIC" to="INFORMATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REAL" to="ESTATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REJECTS" to="APPEAL">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="REJECTS" to="APPEAL">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="REJECTS" to="IMMIGRATION">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REJECTS" to="IMMIGRATION">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROCK" to="TRIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RODHAM" to="CLINTON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEEK" to="ACCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="WHITEWATER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUPREME" to="COURT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SUPREME" to="COURT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SUSAN" to="MCDOUGAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TAPES" to="STORM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TAPES" to="STORM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TELEVISION" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TRIAL" to="JUDGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNEDITED" to="VIDEOTAPES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNITED" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIDEOTAPED" to="TESTIMONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEATHER" to="COFFEE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WEATHER" to="COFFEE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WHITEWATER" to="BUSINESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WHITEWATER" to="REAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WHITEWATER" to="SCANDAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

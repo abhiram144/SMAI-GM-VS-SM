@@ -1,0 +1,537 @@
+<graph>
+  <node id="ACTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALBUM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BAND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEGIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BONE">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="BRITISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRUCKHEIMER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BURN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAREER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHARTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMEDY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CREDITS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAILY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DESTINATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEVELOP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DICK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISNEY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXECUTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FADE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEATURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FELL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILMBONJOVI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILMMAKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRENAIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRONT">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="GUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOLLYWOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOMEGROWN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HURT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDIE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDISCREET">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JERRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JONES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOVI">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="LA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOONLIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVIE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MUSIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUSICAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MUSICIANS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NAZARETH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NECESSARILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOTHING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="PERRY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PICTURE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PLANNING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PRODUCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROJECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUICKLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RACKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECENTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELEASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELEASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUBEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REWRITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROCKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROMANTIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCRIBE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCRIPT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIGNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIGNS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SINGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOLO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPCOMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VALENTINO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="VENTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WRITER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WROTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ACTION" to="MOVIE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BAR" to="BAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="PRODUCTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BONE" to="JOVI">
+    <attribute name="TEXT" value="20" />
+    <attribute name="KEYWORDS" value="4" />
+  </edge>
+  <edge from="BONE" to="JOVI">
+    <attribute name="TEXT" value="20" />
+    <attribute name="KEYWORDS" value="4" />
+  </edge>
+  <edge from="BRITISH" to="WRITER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRUCKHEIMER" to="EXECUTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRUCKHEIMER" to="FILMMAKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAREER" to="FADE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMEDY" to="SET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CREDITS" to="INCLUDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAILY" to="VARIETY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DAILY" to="VARIETY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DAN" to="COX">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEAL" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOP" to="STAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DICK" to="CLEMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISNEY" to="MOVIE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DISNEY" to="MOVIE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="ED" to="BURN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FADE" to="ROCKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEATURE" to="CREDITS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRENAIS" to="WROTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRONT" to="BONE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IAN" to="LA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDIE" to="PICTURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JERRY" to="BRUCKHEIMER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JONES" to="BONE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOVI" to="SIGNS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="JOVI" to="SIGNS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="LA" to="FRENAIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAD" to="SINGER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOVE" to="HURT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSICAL" to="CAREER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSICAL" to="FRONT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NECESSARILY" to="LEAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERRY" to="REUBEN">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="PLAY" to="MUSICIANS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="QUICKLY" to="FELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECENTLY" to="RELEASED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RELEASED" to="SOLO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROCKER" to="JONES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROMANTIC" to="COMEDY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIGNED" to="DEAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SINGER" to="SOURCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOLO" to="ALBUM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="FILMBONJOVI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VARIETY" to="FRONT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="VARIETY" to="FRONT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WRITER" to="DICK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

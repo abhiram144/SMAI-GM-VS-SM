@@ -1,0 +1,870 @@
+<graph>
+  <node id="ACCOMPANIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFFECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGRICULTURAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPEARS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ARISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AVIAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELIEVES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BENEFICIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIRD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CELLS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CHARTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHROMOSOME">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="COMMENTARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPARED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPARISON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONCEPTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONCLUDE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONDUCTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFIRMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTRIBUTE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COSMETIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CROW">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECIDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DETERMINE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DIRECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIRECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCOVERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISCREPANCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISEASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISPARITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISPROPORTIONATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIVIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIVISION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DNA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOMINANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DRIVER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EARLIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ECLIPSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EGG">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="EGG-BOUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ERRORS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ESTIMATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVENTUAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVIDENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVOLUTION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EVOLUTIONARY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FATHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEMALE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOCUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOLLOW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENDER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GENE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GENERATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GENERATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GENETIC">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="GENETICIST">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GREATER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HARMFUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIGHER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HIV-POSITIVE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOMO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUMAN">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="HYPOTHESIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCREASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INCREASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INHERITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVOLVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVOLVES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IRRESPECTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JAMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOB">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOOKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MADISON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MALE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MALE-BIASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MALE-DRIVEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MATCH-UP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEANS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEN">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="MOLECULAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUTATION">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="NATURE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NORMAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCCUR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFSPRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OLDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARALLEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PASSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSSIBLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREDOMINANTLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROCESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCTION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROVIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="REACTION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RELATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPRODUCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REQUIRED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVEALED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REVERSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ROLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SAPIENS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCIENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCIENTISTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEATS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHAMPOOS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SKIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SOLID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOMETIMES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPECIFIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPERM">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="SPERM-BORNE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STUDIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUCCEED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUGGESTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWEDEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SWEDISH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIMES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIVERSITY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UPPSALA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WHETHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WISCONSIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORKERS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR-OLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ACCOMPANIES" to="STUDY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ACTIVE" to="ROLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AFFECTED" to="CHILD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGE" to="LEAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGRICULTURAL" to="SCIENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AVIAN" to="SPERM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIRD" to="REPRODUCTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELLS" to="DIVIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CELLS" to="DIVISION">
+    <attribute name="TEXT" value="4" />
+  </edge>
+  <edge from="CHILD" to="GENDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHROMOSOME" to="COMPARED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONFIRMED" to="WHETHER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COSMETIC" to="SHAMPOOS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CROW" to="BELIEVES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CROW" to="COMMENTARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CROW" to="GENETICIST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CROW" to="POINT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="DATA" to="PROVIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DETERMINE" to="CHILD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DETERMINE" to="OFFSPRING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIRECT" to="HUMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISPROPORTIONATE" to="EFFECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVISION" to="GENERATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVISION" to="INCREASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVISION" to="INVOLVED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVISION" to="REQUIRED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DOMINANT" to="ROLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DRIVER" to="SEATS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="DRIVER" to="SEATS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="DRIVER" to="SEATS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="EARLIER" to="RELATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG" to="IRRESPECTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG" to="MUTATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EGG-BOUND" to="GENE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ERRORS" to="RISE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EVENTUAL" to="MATCH-UP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEMALE" to="EGG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENE" to="COMMON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENE" to="REVEALED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENERATE" to="SPERM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENETIC" to="ACCOMPANIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GENETIC" to="MUTATION">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHER" to="RATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHER" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIV-POSITIVE" to="WORKERS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HIV-POSITIVE" to="WORKERS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HOMO" to="SAPIENS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="EVOLUTION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="HUMAN" to="SPERM">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="HYPOTHESIS" to="APPEARS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCREASED" to="RISK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INHERITED" to="DISEASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVOLVES" to="HIGHER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAMES" to="CROW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MALE-BIASED" to="MUTATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MALE-DRIVEN" to="HYPOTHESIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MATCH-UP" to="DETERMINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MEN" to="AGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOLECULAR" to="MUTATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MON" to="SEP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONTH" to="NATURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUTATION" to="RATE">
+    <attribute name="TEXT" value="4" />
+  </edge>
+  <edge from="NATURE" to="GENETIC">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="NORMAL" to="PARENTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFSPRING" to="GENDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARALLEL" to="FOCUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PART" to="DIRECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="DOMINANT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSSIBLY" to="HARMFUL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREDOMINANTLY" to="SPERM-BORNE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRODUCTION" to="INCREASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROVIDE" to="EVIDENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RELATED" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="CALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="DECIDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="LOOKED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REVEALED" to="MUTATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEX" to="CHROMOSOME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SKIN" to="REACTION">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SKIN" to="REACTION">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SOLID" to="GROUND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOMETIMES" to="BENEFICIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPECIFIC" to="GENE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM" to="CHROMOSOME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM" to="CONTRIBUTE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SPERM" to="INVOLVES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM" to="PLAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM" to="PRODUCTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPERM-BORNE" to="GENE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="MALE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="CONDUCTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUCCEED" to="GENERATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDISH" to="RESEARCHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SWEDISH" to="UNIVERSITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIMES" to="GREATER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIMES" to="HIGHER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UPPSALA" to="SWEDEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WOMAN" to="AGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR-OLD" to="MAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

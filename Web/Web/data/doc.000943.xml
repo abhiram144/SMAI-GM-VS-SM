@@ -1,0 +1,526 @@
+<graph>
+  <node id="ABC">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ACQUIRED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ADULTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AFI">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ALL-EDUCATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIOGRAPHY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOASTS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BRIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROADCAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CBS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COLUMN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONSECUTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAVID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAYTIME">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DISNEY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENDED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FARED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FEWER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FIGURES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FILM">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="FOX">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRINGE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GAP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GREATER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOLLYWOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOUSEHOLDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPROVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCORRECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KIDS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="KINISON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LATE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LENO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LETTERMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINEUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MORNING">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="NARROWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NBC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NETWORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NIELSEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NIGHTLINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NINTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POLITICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POORLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRGRAMMER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUALITY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RATINGS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SAM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SATURDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEASON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SEPT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHARPLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHOWING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELEVISIONRATINGSFRINGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TODAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TONIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUMBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VICTORY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WB">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="WEEKEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WOMEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YEARLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AFI" to="FEST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AFI" to="FEST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ALL-EDUCATIONAL" to="FARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOASTS" to="FEWER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BOASTS" to="FEWER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BRIGHT" to="SIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="SEASON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILDREN" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONSECUTIVE" to="YEARLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAVID" to="LETTERMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAYTIME" to="WOMEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISNEY" to="LINEUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLY" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENDED" to="SEPT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="ENDED" to="SEPT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FARED" to="POORLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEST" to="BOASTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="FEST" to="BOASTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="FEWER" to="FILM">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="FEWER" to="FILM">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="FILM" to="GREATER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="FOX" to="CHILDREN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOX" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRINGE" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FRINGE" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FRINGE" to="TV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOOD" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GREATER" to="QUALITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GREATER" to="QUALITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HOUSEHOLDS" to="ADULTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAY" to="LENO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KIDS" to="PRGRAMMER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KINISON" to="BIOGRAPHY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="KINISON" to="BIOGRAPHY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LATE" to="NIGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAD" to="KIDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAVE" to="CBS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MORNING" to="ADULTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MORNING" to="AMERICA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MORNING" to="TUMBLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIGHT" to="HOUSEHOLDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NINTH" to="CONSECUTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLITICALLY" to="INCORRECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAM" to="KINISON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SAM" to="KINISON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SATURDAY" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEASON" to="LEAVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIDE" to="RESULTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TELEVISIONRATINGSFRINGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TV" to="RATINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEAK" to="SHOWING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEK" to="ENDED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="WEEK" to="ENDED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="WEEKEND" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR" to="WEAK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEARLY" to="VICTORY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

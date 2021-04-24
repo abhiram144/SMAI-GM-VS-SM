@@ -1,0 +1,512 @@
+<graph>
+  <node id="ACTION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ADVANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALCS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALLOWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ANDY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APIECE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATLANTA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BALTIMORE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BASEBALLTRIBE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOTTOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAREER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHAMPIONSHIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLASH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLEVELAND">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DECIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFLECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DENY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIVISION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ERA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIRST-EVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLORIDA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FOLLOW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAME">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="GAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GRISSOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HINGIS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDIANS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INNINGS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="JARET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAGUE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="LEFT-HANDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARQUIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARTINA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MIGHTILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NIGHT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NINTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OMAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ONE-OUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPPOSES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORIOLES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PENNANT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PERFORMANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PETTITTE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSTSEASON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RETURN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RIGHT-HANDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROCKY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROOKIE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCORED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEASON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERIES">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="SETTLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINGLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="START">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRETCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRUGGLED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STUNNING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUNDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SURRENDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TYING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VICTORY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VIZQUEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINNER-TAKE-ALL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WRIGHT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YANKEES">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="YIELD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="AGAINST" to="CLEVELAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="LEAGUE">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="ANDY" to="PETTITTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ATLANTA" to="CLASH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ATLANTA" to="CLASH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BALTIMORE" to="ORIOLES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAREER" to="MARK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHAMPIONSHIP" to="SERIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLEVELAND" to="INDIANS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DECIDE" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DECISIVE" to="POSTSEASON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFLECTED" to="SINGLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVISION" to="SERIES">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="FIRST-EVER" to="DECISIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FLORIDA" to="ATLANTA">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="FORCED" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAME" to="ADVANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAME" to="APIECE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAME" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIT" to="HARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDIANS" to="FORCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDIANS" to="STUNNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INNINGS" to="SCORED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JARET" to="WRIGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAGUE" to="CHAMPIONSHIP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAGUE" to="DIVISION">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="MARQUIS" to="GRISSOM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARTINA" to="HINGIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MARTINA" to="HINGIS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MIGHTILY" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="NIGHT">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIGHT" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIGHT" to="WINNER-TAKE-ALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NINTH" to="INNINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NL" to="PENNANT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NL" to="PENNANT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="OMAR" to="VIZQUEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ONE-OUT" to="DEFLECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPPOSES" to="WRIGHT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSTSEASON" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POSTSEASON" to="SERIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RETURN" to="TRIP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RIGHT-HANDER" to="SETTLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROOKIE" to="JARET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCORED" to="MARQUIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEASON" to="SURRENDER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SERIES" to="PLAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPORT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="BASEBALLTRIBE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRONG" to="PERFORMANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRUGGLED" to="MIGHTILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIZQUEL" to="ONE-OUT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WINNER-TAKE-ALL" to="GAME">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YANKEES" to="RETURN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YANKEES" to="TYING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="YANKEES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

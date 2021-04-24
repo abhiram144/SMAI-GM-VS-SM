@@ -1,0 +1,598 @@
+<graph>
+  <node id="ADD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADMINISTRATOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFFER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AGENCY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AIR">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANTI-POLLUTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="APPOINT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BROWNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BULLDOZERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAROL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHIEF">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMBINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTRIBUTORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CURRENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIESEL">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="DIESEL-POWERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMISSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENGINE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENVIRONMENTAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EPA">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="EQUIPMENT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EQUIVALENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINANCIAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FORECAST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FORKLIFTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FULLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HEAVY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HYDROCARBONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPLEMENTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTERNATIONAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAJOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MATTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MCAFEE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MODEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONWIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="NITROGEN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NON-ROAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFF-ROAD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OXIDE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PARTICULATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERCENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PHASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POLLUTION">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="POSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PRICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROPOSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROTECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PURCHASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUOTES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REDUCE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REGULATORSTUESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ROAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROSY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RULES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SMOG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STANDARD">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="STATEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOCK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TAKING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THREAT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TIGHTER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOUGHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRUCKS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TWO-THIRDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VEHICLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WELL-BEING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIRE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WORLDCOM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ADMINISTRATOR" to="CAROL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AFFER" to="ROSY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AFFER" to="ROSY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="AIR" to="POLLUTION">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="ANTI-POLLUTION" to="STANDARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="APPOINT" to="INTERNATIONAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="APPOINT" to="INTERNATIONAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BUS" to="TRUCKS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BUSINESS" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAROL" to="BROWNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CURRENT" to="STANDARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIESEL" to="ENGINE">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="DIESEL" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIESEL" to="POLLUTION">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIESEL" to="POLLUTION">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIESEL" to="VEHICLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIESEL-POWERED" to="TRUCKS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENVIRONMENTAL" to="PROTECTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EPA" to="ADMINISTRATOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EPA" to="SET">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="EPA" to="SET">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="FEDERAL" to="REGULATORSTUESDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FULLY" to="IMPLEMENTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEAVY" to="DIESEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEAVY" to="TRUCKS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPOSED" to="TOUGHER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INTERNATIONAL" to="UNIT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="INTERNATIONAL" to="UNIT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MAJOR" to="CONTRIBUTORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MATTER" to="EMISSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MCAFEE" to="STOCK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MCAFEE" to="STOCK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MILLION" to="HEAVY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILLION" to="TONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MODEL" to="YEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NITROGEN" to="OXIDE">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="NON-ROAD" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFF-ROAD" to="DIESEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFF-ROAD" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PARTICULATE" to="MATTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLLUTION" to="NATIONWIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLLUTION" to="POSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLLUTION" to="STANDARD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="POLLUTION" to="STANDARD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="PROPOSED" to="STANDARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROPOSED" to="TIGHTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROTECTION" to="AGENCY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PURCHASE" to="PRICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REDUCE" to="AIR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REDUCE" to="NITROGEN">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="REGULATORSTUESDAY" to="IMPOSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RISE" to="AFFER">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="RISE" to="AFFER">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="ROSY" to="FORECAST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ROSY" to="FORECAST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SET" to="TIGHTER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="SET" to="TIGHTER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="STOCK" to="RISE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="STOCK" to="RISE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="STORIES" to="TRUCKS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TIGHTER" to="DIESEL">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="TIGHTER" to="DIESEL">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="TIGHTER" to="STANDARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TONS" to="YEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOUGHER" to="ANTI-POLLUTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNIT" to="CHIEF">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="UNIT" to="CHIEF">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="WORLDCOM" to="APPOINT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="WORLDCOM" to="APPOINT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="YEAR" to="EQUIVALENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

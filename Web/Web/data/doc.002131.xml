@@ -1,0 +1,572 @@
+<graph>
+  <node id="AFFIRMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AHEAD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="APPEAL">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ASSEMBLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIG">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BITTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BOUNDARIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BROOKLYN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CAMPAIGN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CENSUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CITY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CLEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONGRESS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONGRESSIONAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CONSISTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COURT">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="CREATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFENSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DELEGATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEMOCRATS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISTRICT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DRAWN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDUCATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ELECTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ELECTION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ETHNICITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACTORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEBRUARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FEDERAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINANCE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FORCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HISPANIC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="HOUSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMMIGRATION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JUDGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEGAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOWER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAKING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MANHATTAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOVEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NYDIA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PANEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PREDOMINANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRIMARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUERTO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PURPOSES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUEEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REAPPORTIONMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REDISTRICTING">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REDUCTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFLECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFORM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REJECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REJECTS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPRESENTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RICAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RULED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RULING">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEATS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHELDON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SILVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOLARZ">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPEAKER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STEPHEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRETCHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRUCK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUPREME">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THEN-REP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNCONSTITUTIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPHELD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VELAZQUEZ">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VICTORY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VOTERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WOMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <edge from="AFFIRMED" to="RULING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASSEMBLY" to="SPEAKER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIG" to="WEEK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BIG" to="WEEK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BITTER" to="PRIMARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAMPAIGN" to="FINANCE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CAMPAIGN" to="FINANCE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CITY" to="DRAWN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CITY" to="REDISTRICTING">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CITY" to="REDISTRICTING">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="CONGRESSIONAL" to="DELEGATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONGRESSIONAL" to="DISTRICT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CONGRESSIONAL" to="ELECTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COST" to="APPEAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="COST" to="APPEAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="COURT" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="REJECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COURT" to="REJECTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="COURT" to="REJECTS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="EDUCATION" to="FUND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ELECTING" to="HISPANIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEBRUARY" to="RULED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FEDERAL" to="JUDGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINANCE" to="REFORM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="FINANCE" to="REFORM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HIGH" to="COURT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HIGH" to="COURT">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="HISPANIC" to="VOTERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMMIGRATION" to="COST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="IMMIGRATION" to="COST">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="LEGAL" to="DEFENSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOWER" to="MANHATTAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="AFFIRMED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NYDIA" to="VELAZQUEZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POLITIC" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREDOMINANT" to="FACTORS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRIMARY" to="VICTORY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUERTO" to="RICAN">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="REFLECTED" to="REDUCTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REFORM" to="AHEAD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REFORM" to="AHEAD">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REJECTS" to="IMMIGRATION">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REJECTS" to="IMMIGRATION">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RICAN" to="LEGAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RICAN" to="WOMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RULING" to="CLEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SHELDON" to="SILVER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOLE" to="PURPOSES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPEAKER" to="SHELDON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="ASSEMBLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STEPHEN" to="SOLARZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="REDISTRICTING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUPREME" to="COURT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SUPREME" to="COURT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TH" to="CONGRESSIONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNCONSTITUTIONAL" to="CONGRESSIONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VELAZQUEZ" to="DEMOCRATS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VOTERS" to="REPRESENTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WOMAN" to="ELECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="CITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="YORK" to="CITY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="YORK" to="CONGRESSIONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

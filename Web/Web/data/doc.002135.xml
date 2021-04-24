@@ -1,0 +1,829 @@
+<graph>
+  <node id="ACCUSED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ACT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AGAINST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGENCY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIR">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AIRCRAFT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ALLOWED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMOUNT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARRIVES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATTACK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ATTEMPT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BASE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BRITAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CARRIER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CLINTON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COHEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CONTROVERSIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNTRY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CREATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CREDIBILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CRISIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CURTAILMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DECLARED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEFENSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DESPERATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISPATCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOUBT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DUBAI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLIER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EARLY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EDITORIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENFORCED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENGLISH-LANGUAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXILE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXISTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLIGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FORCE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FOREIGN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GLOBAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GROUND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GULF">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPOSED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INSIDE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTEGRITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IRANIAN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="IRAQ">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="IRAQI">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="IRNA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOHNSON">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="JOIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KURDISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KURDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAHMOUD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MAJOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEDITERRANEAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MIDDLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MINISTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MINORITIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MISPORTRAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOHAMMADI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NAVAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEEDLESSLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="NEWSPAPER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NIMITZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NO-FLY">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="NORTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OCT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OFFICIALS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="OPERATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPPOSITION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORDERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORIGINALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PATROL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERSIAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PLANNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PORT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESIDENT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PROTECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUSH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="QUESTIONABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RAIDS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RAISE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="RAISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REBELS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REGION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RELATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPROACH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESPONSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUSH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAILS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCHEDULED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SECRETARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHIITES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SHOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SINGAPORE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SKIP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOUTH">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SOVEREIGNTY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SPEED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPOKESMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPOT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUNDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEHRAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TENSIONS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="TERRITORIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THREATENING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOLD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TREATY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TROUBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TURKEY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNITED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="USS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIETNAM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VIOLATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIOLATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIOLATIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WARM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WARNS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WARSHIPS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WASHINGTON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WATERWAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WILLIAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ZONE">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <edge from="AGAINST" to="IRAQI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AGAINST" to="VIOLATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AIR" to="ATTACK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AIR" to="FORCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AIR" to="RAIDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AIRCRAFT" to="CARRIER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="AM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="CREDIBILITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ARMED" to="OPPOSITION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BAN" to="IMPOSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BASE" to="INSIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BRITAIN" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARRIER" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CARRIER" to="NIMITZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLINTON" to="PUSH">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CLINTON" to="PUSH">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="CONTROVERSIAL" to="BAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CREATE" to="CRISIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAY" to="EARLIER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEFENSE" to="SECRETARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLIER" to="RELATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLY" to="VIETNAM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="EARLY" to="VIETNAM">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="ENGLISH-LANGUAGE" to="DAILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FLIGHT" to="BAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FORCE" to="RAIDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOREIGN" to="MINISTRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GLOBAL" to="WARM">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="GLOBAL" to="WARM">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="GULF" to="NEWS">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="INSIDE" to="IRAQ">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="IRANIAN" to="AIR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRANIAN" to="AIRCRAFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRANIAN" to="FOREIGN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRANIAN" to="OFFICIALS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRAQ" to="RUN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRAQ" to="SOVEREIGNTY">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="IRAQI" to="AIR">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="IRAQI" to="SHIITES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IRNA" to="NEWS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOIN" to="EXISTING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KURDISH" to="REBELS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEAD" to="NEWSPAPER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAHMOUD" to="MOHAMMADI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MAJOR" to="REPROACH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MINISTRY" to="SPOKESMAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MINORITIES" to="LIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOHAMMADI" to="TOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MONDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NAVAL" to="FORCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEEDLESSLY" to="RAISED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEWS" to="AGENCY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEWS" to="ASKED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIMITZ" to="AIRCRAFT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIMITZ" to="SAILS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NO-FLY" to="ZONE">
+    <attribute name="TEXT" value="5" />
+  </edge>
+  <edge from="NORTH" to="DECLARED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFICIALS" to="IRNA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OFFICIALS" to="SUNDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPERATIONAL" to="FORCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPPOSITION" to="EXILE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORIGINALLY" to="SCHEDULED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERSIAN" to="GULF">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="POLITIC" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PORT" to="CALL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRESIDENT" to="JOHNSON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="PRESIDENT" to="JOHNSON">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="PROTECT" to="KURDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUSH" to="GLOBAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="PUSH" to="GLOBAL">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="QUESTIONABLE" to="CURTAILMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RAISE" to="TENSIONS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="RAISE" to="TENSIONS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="RAISE" to="TENSIONS">
+    <attribute name="TEXT" value="6" />
+    <attribute name="LINKS" value="3" />
+    <attribute name="KEYWORDS" value="3" />
+  </edge>
+  <edge from="RAISED" to="TENSIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RELATED" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SECRETARY" to="WILLIAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SKIP" to="PORT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOUTH" to="IMPOSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SPOKESMAN" to="MAHMOUD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="ENFORCED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="GULF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUN" to="OCT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUNDAY" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEHRAN" to="IRANIAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TERRITORIAL" to="INTEGRITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOLD" to="TEHRAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TROUBLE" to="SPOT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TURKEY" to="AGAINST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNITED" to="STATES">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="USS" to="NIMITZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VIETNAM" to="DOUBT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="VIETNAM" to="DOUBT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="VIOLATING" to="IRAQ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WARM" to="TREATY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="WARM" to="TREATY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="WARNS" to="TURKEY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WASHINGTON" to="TOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEK" to="ORDERED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WILLIAM" to="COHEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

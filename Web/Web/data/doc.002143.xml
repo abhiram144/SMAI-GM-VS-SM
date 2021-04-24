@@ -1,0 +1,521 @@
+<graph>
+  <node id="ABILITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACCESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ADVERTISING-">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARCHITECTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BATTLE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BRING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROADCAST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BYPASS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CABLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHIEF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLIENT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPUTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DATACAST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAVID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="DEEDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EQUIPPED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXECUTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROWING">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="GUIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HOUSEHOLDS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFORMATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAUNCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LEGAL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEMBERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICROSOFT">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="NORTEL">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NORWEB">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFICER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPEN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPERATING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PBS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PC">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PERCENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERSONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLUG">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POWER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PROGRAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROVIDERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUARTER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REACH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REDMOND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ROUGHLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVICE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SIGNAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SIGNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIGNS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SOFTWARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STANDARD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STATEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUPPORTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYSTEM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNOLOGY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TELEPHONE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TODAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUNE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TUNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPCOMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPGRADES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="USERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WASH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WAVEPHORE">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="WAVETOP">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WINDOWS">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="WIRED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ZDNET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ADVERTISING-" to="SUPPORTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="ARCHITECTURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="SERVICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="SIGNAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="TV">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BYPASS" to="STANDARD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CALLED" to="WAVETOP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHIEF" to="EXECUTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPUTER" to="OPERATING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DATA" to="BROADCAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DAVID" to="DEEDS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEAL" to="TODAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEEDS" to="WAVEPHORE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXECUTIVE" to="OFFICER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUP" to="REACH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INFORMATION" to="ENTERTAINMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LEGAL" to="BATTLE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="LEGAL" to="BATTLE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="MEMBERS" to="PBS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSOFT" to="POWER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MICROSOFT" to="POWER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="MICROSOFT" to="UPCOMING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICROSOFT" to="WAVEPHORE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="DATACAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NORWEB" to="NORTEL">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="OFFER" to="INFORMATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPEN" to="BROADCAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OPERATING" to="SYSTEM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PBS" to="NATIONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PBS" to="STATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PC" to="EQUIPPED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERSONAL" to="COMPUTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLUG" to="CLIENT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="PLUG" to="CLIENT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POWER" to="GROWING">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="POWER" to="GROWING">
+    <attribute name="TEXT" value="8" />
+    <attribute name="LINKS" value="8" />
+  </edge>
+  <edge from="PROGRAM" to="GUIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REACH" to="ROUGHLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REDMOND" to="WASH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SERVICE" to="PROVIDERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIGNAL" to="BYPASS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIGNED" to="DEAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIGNS" to="DEAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="SIGNS" to="DEAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="STANDARD" to="CABLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATION" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="WAVEPHORE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUPPORTED" to="DATA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECHNOLOGY" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEPHONE" to="LINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="TUNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TV" to="SIGNAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UPCOMING" to="PERSONAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WAVEPHORE" to="CHIEF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WAVEPHORE" to="SEND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WAVEPHORE" to="SIGNED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WAVEPHORE" to="SIGNS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="WAVEPHORE" to="SIGNS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="WAVETOP" to="PC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WAVETOP" to="SOFTWARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

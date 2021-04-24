@@ -1,0 +1,637 @@
+<graph>
+  <node id="AHO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ANNIVERSARY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ARVID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELGIUM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BILLION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BROADER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROTHER-IN-LAW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BURNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CALLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CATALOGUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPLETED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPOSER">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CONCERT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONDUCTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEATH">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="DECEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DESTROYED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIFFICULT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIRECTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFORT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EIGHTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EIJA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="END">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPERTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAMOUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FILLED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FINLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINNISH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FULL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAP">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GOGH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HELSINKI">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HISTORICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPORTANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INVOLVING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JARNEFELT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JEAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KALEVI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KARELIA">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="KINBERG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="KURKI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LAHTI">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MELANCHOLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MISS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MONTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOVEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MUSIC">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="MUSICSIBELIUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="OBSCURITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ORCHESTRA">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ORIGINAL">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="OSMO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVERTURES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PAGEANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PART">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="PIECE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="PUBLISHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="READERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORD">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="RECORDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORDINGS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RECOVERED">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="REMAINED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORTERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESIDENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SCHOLARLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCORE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIBELIUS">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="SOLOISTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATION">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STOLEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYMPHONY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TABLEAUX">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THEATER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="THEATRICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOLD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOTAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TRISTE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TUOMAS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNFINISHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNRECORDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNVEILED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPDATE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VALSE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VAN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="VANSKA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VERSIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VOCAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WESTINGHOUSE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WORK">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WRITTEN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <edge from="ARVID" to="JARNEFELT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADER" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROTHER-IN-LAW" to="ARVID">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPOSER" to="JEAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPOSER" to="KALEVI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPOSER" to="MUSIC">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COMPOSER" to="MUSIC">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="COMPOSER" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONCERT" to="VERSIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONDUCTOR" to="OSMO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIRECTOR" to="TUOMAS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EIGHTH" to="SYMPHONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EIJA" to="KURKI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPERTS" to="EIJA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAMOUS" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINNISH" to="COMPOSER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FINNISH" to="COMPOSER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="FINNISH" to="SYMPHONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="UNVEILED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FULL" to="SIBELIUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAP" to="FILLED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GAP" to="FILLED">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="GOGH" to="RECOVERED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GOGH" to="RECOVERED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HELSINKI" to="FINLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HISTORICAL" to="PAGEANT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IMPORTANT" to="GAP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVOLVING" to="SERIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JEAN" to="SIBELIUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KALEVI" to="AHO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KARELIA" to="MUSIC">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="KARELIA" to="SUITE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="KINBERG" to="TOLD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAHTI" to="ORCHESTRA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LAHTI" to="SYMPHONY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MUSIC" to="COMPOSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="THEATER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORCHESTRA" to="DIRECTOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORCHESTRA" to="EFFORT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORCHESTRA" to="FRIDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORCHESTRA" to="RESIDENTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ORIGINAL" to="SCORE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OSMO" to="VANSKA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PAGEANT" to="INVOLVING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="CALLED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLAY" to="WRITTEN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECORD" to="FILL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESIDENTS" to="COMPOSER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SCHOLARLY" to="CATALOGUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIBELIUS" to="BROTHER-IN-LAW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIBELIUS" to="EXPERTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIBELIUS" to="KARELIA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIBELIUS" to="PUBLISHED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SIBELIUS" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOLEN" to="VAN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOLEN" to="VAN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STORIES" to="MUSICSIBELIUS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SYMPHONY" to="ORCHESTRA">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TH" to="ANNIVERSARY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THEATER" to="MUSIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THEATRICAL" to="MUSIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOLD" to="REPORTERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOTAL" to="OBSCURITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUOMAS" to="KINBERG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNFINISHED" to="EIGHTH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNRECORDED" to="WORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNVEILED" to="RECORD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VALSE" to="TRISTE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="VAN" to="GOGH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="VAN" to="GOGH">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="VOCAL" to="SOLOISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WESTINGHOUSE" to="BUY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="WESTINGHOUSE" to="BUY">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+</graph>

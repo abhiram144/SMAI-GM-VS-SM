@@ -1,0 +1,887 @@
+<graph>
+  <node id="ADVANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AM">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ANALYSTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="APPEARED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AREA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ASSETS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AUG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUGUST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AVERAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BENCHMARK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BID">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BLUE-CHIP">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="BOND">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BOOST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BOOSTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROADER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUILDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BUSINESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHANGE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CHIEF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLOSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMUNICATIONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMPANY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="COMPOSITE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONCERNS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFIDENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONSIDER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CORP">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CRUISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DATA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECLINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISAPPOINTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DOW">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="EARLIER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARNINGS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="ECONOMIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="END">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXCHANGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FADE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FAIRCHILD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FEEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINANCIAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FOCUS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="FRESH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GAIN">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="GOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GROUND">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="GTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HELPING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="HIGHER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HITTING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVESTMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INVESTORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JAVA">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="JITTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="JONES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LEADER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOCAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LOWERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKET">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="MCI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MERGER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="METZ">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="MICHAEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MICRO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="MICROSOFT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MON">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="MONDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NASDAQ">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="NETWORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="6" />
+  </node>
+  <node id="OCT">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="OCTOBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OFFICIALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OPPENHEIMERANDCO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARTNER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERCENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PHONE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POINT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="POISED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POSTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROBLEMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROPELLED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUARTER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUOTES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RECORD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RELATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REPORTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESISTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RETEST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RISE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ROIL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROSE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="RUMORS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEASON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SECTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SEMICONDUCTOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SET">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SHARE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SLIPPING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPECULATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STEADILY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOCK">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRATEGIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STREET">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STRONG">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SUPPORTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SURPRISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYSTEM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TAKEOVER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNOLOGY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TELECOMMUNICATIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TODAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TREASURY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TUE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="TUESDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="UNPLEASANT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPCOMING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UPSET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VOLUME">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WALL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="WIRE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WORLDCOM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YIELD">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <edge from="ADVANCE" to="LED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANALYSTS" to="EXPECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ASSETS" to="CHANGE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="AUGUST" to="HIGH">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="AUGUST" to="HIGH">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BIG" to="PROBLEMS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BIZ" to="WIRE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="BLUE-CHIP" to="POISED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BLUE-CHIP" to="POISED">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BLUE-CHIP" to="STOCK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="BLUE-CHIP" to="STOCK">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="BOND" to="MARKET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADER" to="MARKET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BUSINESS" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHANGE" to="FOCUS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CHANGE" to="FOCUS">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CHIEF" to="INVESTMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLOSE" to="RECORD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMUNICATIONS" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CRUISED" to="STEADILY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISAPPOINTING" to="EARNINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DOW" to="END">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DOW" to="END">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="DOW" to="JONES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLIER" to="RELATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARNINGS" to="JITTERS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="EARNINGS" to="JITTERS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="EARNINGS" to="REPORT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="ECONOMIC" to="DATA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="END" to="STRONG">
+    <attribute name="TEXT" value="3" />
+    <attribute name="LINKS" value="3" />
+  </edge>
+  <edge from="END" to="STRONG">
+    <attribute name="TEXT" value="3" />
+    <attribute name="LINKS" value="3" />
+  </edge>
+  <edge from="FRESH" to="ECONOMIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAIN" to="GROUND">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GAIN" to="GROUND">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="GAIN" to="HELPING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GAIN" to="SUPPORTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GOOD" to="GAIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GROUND" to="TODAY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="GROUND" to="TODAY">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="GTE" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGHER" to="TUESDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUW" to="JONES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDUSTRIAL" to="AVERAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INTEL" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVESTMENT" to="STRATEGIST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INVESTORS" to="APPEARED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JAVA" to="TECHNOLOGY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="JAVA" to="TECHNOLOGY">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="JITTERS" to="FADE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="JITTERS" to="FADE">
+    <attribute name="TEXT" value="1" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="JONES" to="INDUSTRIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LED" to="DECLINE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LOCAL" to="PHONE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARKE" to="ANALYSTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARKET" to="ADVANCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARKET" to="CRUISED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MARKET" to="LEADER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MCI" to="COMMUNICATIONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MERGER" to="PARTNER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="METZ" to="CHIEF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICHAEL" to="METZ">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MICRO" to="SUE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="MICRO" to="SUE">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="MICROSOFT" to="CORP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILLION" to="SHARE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MON" to="OCT">
+    <attribute name="TEXT" value="3" />
+  </edge>
+  <edge from="NASDAQ" to="COMPOSITE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NASDAQ" to="SET">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NASDAQ" to="SET">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="NETWORK" to="SYSTEM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERCENT" to="MONDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PHONE" to="COMPANY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="PR" to="NEWS">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="QUARTER" to="EARNINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RECORD" to="HIGH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RELATED" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPORT" to="SEASON">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEASON" to="OFFICIALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEMICONDUCTOR" to="STOCK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SET" to="AUG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STEADILY" to="HIGHER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOCK" to="END">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOCK" to="END">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOCK" to="EXCHANGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOCK" to="GAIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOCK" to="GAIN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="STOCK" to="MARKET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STOCK" to="RISE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="STOCK" to="RISE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="STORIES" to="STOCK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SUE" to="MICROSOFT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SUE" to="MICROSOFT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="SUN" to="MICRO">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="SUN" to="MICRO">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TAKEOVER" to="BID">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="TELECOMMUNICATIONS" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELECOMMUNICATIONS" to="SECTOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TREASURY" to="BOND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TREASURY" to="ROSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TUE" to="OCT">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="TUESDAY" to="OCTOBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNPLEASANT" to="SURPRISE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UPCOMING" to="EARNINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WALL" to="STREET">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="WALL" to="STREET">
+    <attribute name="TEXT" value="1" />
+    <attribute name="LINKS" value="1" />
+  </edge>
+  <edge from="WEEK" to="HIGH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEEK" to="RALLY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YEAR" to="TREASURY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="YORK" to="STOCK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

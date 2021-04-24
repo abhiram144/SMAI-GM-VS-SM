@@ -1,0 +1,882 @@
+<graph>
+  <node id="ACCIDENTAL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ACUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AFFECT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="AGENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AIR-CONDITIONING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALLOWING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALTERNATIVE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="ANESTHETIC">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ANIMALS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ARTIFICIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUGUST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BANNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEGINNING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELGIAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BELGIUM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BETHESDA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIOPSIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLOOD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BODY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BOURDI">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BREAST">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CABIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CANCER">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="CASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAUSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CELLS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CFC">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CHLOROFLUOROCARBONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CLEAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CO-AUTHOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMPOUND">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="COMPRISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONCLUSIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONFIRMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONNECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CONTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COOLANTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DAMAGE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="DETAILS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEVELOP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DISEASE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="DRIVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DROVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARTH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EFFECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EMPLOYED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EVIDENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPECTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPERIMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="EXPOSED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPOSURE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="EXTINGUISHERS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FACILITY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FINDINGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FIRE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FREON">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FRIDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUTURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GANTRY">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="GROUP">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GUINEA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALOGENATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALOTHANE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HARMFUL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HCFC">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEALTHY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEART">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HEIGHT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HEPATITIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEPATOTOXICITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HIGH">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="HIGH-DOSE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HUMAN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HYDROCHLOROFLUOROCARBONS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IDENTIFIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IMPORTANCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDUSTRIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INJURY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INSPECTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INSTITUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTENDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INTERNATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LANCET">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="LAYER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LEAK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIVER">
+    <attribute name="FREQUENCY" value="9" />
+  </node>
+  <node id="LONG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LUNG">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARKETED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARYLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEASURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MEN">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="METABOLIZES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOHAMMED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NATIONAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NOTES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OVERHEAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OZONE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PARTIALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PERFORATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PIGS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PIPES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PIPING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLASTIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POPULATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POTENTIALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PREVENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRODUCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROPORTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROTECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROTEIN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROVIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RADIATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFRIGERANTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPAIR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPEATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPLACEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REPORT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REPORTED">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESEARCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESEARCHERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RESPONSIBLE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RESULTS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="REVEALED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RISE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RISK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SAD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SAFER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SAVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCIENTISTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEVERE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SIMILAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SMELT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SOLVENTS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOURCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPECIFIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STORY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STRICT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STRUCTURALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STUDY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="SYMPTOMS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SYSTEM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TESTOSTERONE">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THINNING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="THOUGHT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOXIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TOXICITY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TREATY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ULTRAVIOLET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNIDENTIFIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="URGENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="URGES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VIEW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEEK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIDELY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WIDESPREAD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORKED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WORKERS">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ACCIDENTAL" to="EXPOSURE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="ACUTE" to="HEPATITIS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AFFECT" to="HEART">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="AFFECT" to="HEART">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="AGENT" to="FIRE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AIR-CONDITIONING" to="SYSTEM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALLOWING" to="HCFC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANESTHETIC" to="COMPOUND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ANIMALS" to="EXPERIMENTS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="ARTIFICIAL" to="COOLANTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AUTHOR" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BELGIAN" to="SMELT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BETHESDA" to="MARYLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIOPSIES" to="BEGINNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BLOOD" to="INSTITUTE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BODY" to="METABOLIZES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BOURDI" to="RESEARCH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BREAST" to="CANCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="BREAST" to="CANCER">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CABIN" to="CONNECTED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CABIN" to="REVEALED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CANCER" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CANCER" to="RISK">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="CFC" to="ALTERNATIVE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CFC" to="ALTERNATIVE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CFC" to="INCLUDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CLEAN" to="AGENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPOUND" to="HALOTHANE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMPRISE" to="GROUP">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONCLUSIVE" to="EVIDENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CONFIRMED" to="CASE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DEVELOP" to="SAFER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DISEASE" to="CAUSED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPERIMENTS" to="HIGH-DOSE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EXPOSED" to="POPULATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINDINGS" to="PROVIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FIRE" to="EXTINGUISHERS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FRIDAY" to="AUGUST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GANTRY" to="CABIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GANTRY" to="DRIVER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GUINEA" to="PIGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HALOGENATED" to="HYDROCHLOROFLUOROCARBONS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HARMFUL" to="ULTRAVIOLET">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HCFC" to="TOXICITY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEALTH" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEART" to="BREAST">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="HEART" to="LUNG">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HEIGHT" to="AFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HEIGHT" to="AFFECT">
+    <attribute name="TEXT" value="4" />
+    <attribute name="LINKS" value="4" />
+  </edge>
+  <edge from="HIGH" to="PROPORTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIGH" to="TESTOSTERONE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HIGH" to="TESTOSTERONE">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="HIGH-DOSE" to="EXPOSURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HUMAN" to="BEINGS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="IDENTIFIED" to="SPECIFIC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INCLUDING" to="FREON">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDUSTRIAL" to="REFRIGERANTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INTERNATIONAL" to="TREATY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LANCET" to="REPORT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIVER" to="BIOPSIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIVER" to="CELLS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIVER" to="DAMAGE">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="LIVER" to="DAMAGE">
+    <attribute name="TEXT" value="3" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="LIVER" to="DISEASE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="LIVER" to="INJURY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOHAMMED" to="BOURDI">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NATIONAL" to="HEART">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OVERHEAD" to="GANTRY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OZONE" to="LAYER">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="PARTIALLY" to="HALOGENATED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PERFORATED" to="ALLOWING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLASTIC" to="PIPING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIALLY" to="WIDESPREAD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PREVENT" to="ACCIDENTAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRODUCE" to="SEVERE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PROVIDE" to="CONCLUSIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REFRIGERANTS" to="INTENDED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPEATED" to="EXPOSURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPORT" to="DETAILS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REPORT" to="NOTES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCH" to="SCIENTISTS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RESEARCHERS" to="IDENTIFIED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SAFER" to="ALTERNATIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SEVERE" to="LIVER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SMELT" to="FACILITY">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="SPECIFIC" to="PROTEIN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="CFC">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRICT" to="MEASURE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STRUCTURALLY" to="SIMILAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STUDY" to="CO-AUTHOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECHNICAL" to="INSPECTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TESTOSTERONE" to="MEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TESTOSTERONE" to="MEN">
+    <attribute name="TEXT" value="2" />
+    <attribute name="LINKS" value="2" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="THOUGHT" to="RESPONSIBLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TOXIC" to="EFFECT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ULTRAVIOLET" to="RADIATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNIDENTIFIED" to="BELGIAN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNITED" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>

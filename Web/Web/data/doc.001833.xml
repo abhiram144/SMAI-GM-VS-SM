@@ -1,0 +1,804 @@
+<graph>
+  <node id="ABBEY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ABC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ACRIMONIOUS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ADVERTISING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="AGO">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ALL-DAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AMERICAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ANCHORED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ATLANTA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUDIENCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="AUTHORITATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BBC">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="BEAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BEGIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BERNARD">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BID">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BIGGEST">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIGGEST-EVER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BILLION">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="BIZ">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="BLACKOUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRITAIN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BRITISH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="BROADCAST">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="BROADCASTER">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="CABLE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAMERA">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CBS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CENTRAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHANNEL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CHARLES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CHILDREN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CNN">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMENTS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="COMMERCIAL">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="CORPORATION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CORTEGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNTRIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COUNTRY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COVERAGE">
+    <attribute name="FREQUENCY" value="7" />
+  </node>
+  <node id="COVERED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="COVERS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="CRASH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="CUT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DACRE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DECISION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DEPLOY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIANA">
+    <attribute name="FREQUENCY" value="5" />
+  </node>
+  <node id="DIED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="DIVORCE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EARLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDITOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDITORIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EDT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ENDED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENGLAND">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ENTERTAIN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="ENTERTAINMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EQUIPMENT">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="ESTIMATED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EVENT">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="EXECUTIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="EXPECTED">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="FAIRYTALE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FAREWELL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FINISHED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FOX">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="FRONTED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="FUNERAL">
+    <attribute name="FREQUENCY" value="8" />
+  </node>
+  <node id="GEORGIA-BASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="GULF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HALF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEADLINES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HEALTH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="HIRED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="HOURS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="HTML">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INAPPRORIATE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INCLUDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INDEPENDENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="INFO">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="INTERRUPTION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="IRONICALLY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ITN">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="JOHN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="JOURNALIST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIMITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LINE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="LIVE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LONDON">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="LUCRATIVE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MANN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MARRIAGE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MILLION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MOODY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="MORNING">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="NATURE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NBC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="NETWORK">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="NEWS">
+    <attribute name="FREQUENCY" value="10" />
+  </node>
+  <node id="NIGEL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="OUTDOOR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PARIS">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PEOPLE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PEOPLE-BASED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLACE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PLANS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="PM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="POLITIC">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="POTENTIAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRESIDENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PRINCESS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="PROCESSION">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PROGRAM">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PUBLIC">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="PULL">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="QUESTIONS">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="RANK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REFLECT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REST">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="REUTERS">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="REVENUE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RIVAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="ROUTE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="RUN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SATURDAY">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SCOREBOARD">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="SEPTEMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SERVICE">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="SHAW">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOMBER">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SOUR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPOKESWOMAN">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SPORT">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="STAFF">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="START">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATEMENT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STATES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STOP">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="STORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="STREET">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="SUNDAY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TECH">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="TECHNICAL">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEVISED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TELEVISION">
+    <attribute name="FREQUENCY" value="3" />
+  </node>
+  <node id="TELEVISIONDIANA">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TERRITORIES">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TEXT">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TONE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TURNED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="TV">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="UNITED">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VARIETY">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="VICE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WATCH">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDDING">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WEDNESDAY">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WESTMINSTER">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="WORLDWIDE">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="WRITE">
+    <attribute name="FREQUENCY" value="2" />
+  </node>
+  <node id="YAHOO">
+    <attribute name="FREQUENCY" value="4" />
+  </node>
+  <node id="YEAR">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <node id="YORK">
+    <attribute name="FREQUENCY" value="1" />
+  </node>
+  <edge from="ACRIMONIOUS" to="DIVORCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AD" to="EXECUTIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ADVERTISING" to="REVENUE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ALL-DAY" to="COVERAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="AMERICAN" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ATLANTA" to="GEORGIA-BASED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BBC" to="COMMERCIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BEGIN" to="COVERAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BERNARD" to="SHAW">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BID" to="FAREWELL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIGGEST" to="LIVE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BIGGEST" to="OUTDOOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BILLION" to="PEOPLE">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="BRITISH" to="BROADCAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="CORPORATION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCAST" to="EVENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="BROADCASTER" to="PULL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="BROADCASTER" to="PULL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="2" />
+  </edge>
+  <edge from="CABLE" to="NEWS">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="CAMERA" to="INCLUDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAMERA" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CAR" to="CRASH">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CBS" to="FOX">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CENTRAL" to="ENGLAND">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHANNEL" to="COVERAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="CHILDREN" to="PROGRAM">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMERCIAL" to="ADVERTISING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMERCIAL" to="BLACKOUT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMERCIAL" to="INTERRUPTION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COMMERCIAL" to="RIVAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="COVERS" to="PRINCESS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DACRE" to="EDITOR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIANA" to="CORTEGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIANA" to="FUNERAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIANA" to="FUNERAL">
+    <attribute name="TEXT" value="2" />
+    <attribute name="KEYWORDS" value="1" />
+  </edge>
+  <edge from="DIANA" to="WEDDING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIED" to="SUNDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="DIVORCE" to="YEAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="EARLY" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ENTERTAINMENT" to="STORIES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FAIRYTALE" to="MARRIAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FINAL" to="REST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FOX" to="NEWS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FUNERAL" to="PROCESSION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="FUNERAL" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GEORGIA-BASED" to="CABLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="GULF" to="WAR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HALF" to="BILLION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="HIRED" to="EQUIPMENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INDEPENDENT" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="INTERRUPTION" to="INAPPRORIATE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ITN" to="NEWS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ITN" to="PLANS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="JOHN" to="MOODY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIVE" to="COVERAGE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LIVE" to="EVENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LONDON" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="LUCRATIVE" to="SATURDAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MILLION" to="PEOPLE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MOODY" to="VICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MORNING" to="CHILDREN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="MORNING" to="HOURS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NBC" to="TELEVISION">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NETWORK" to="ADVERTISING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEWS" to="CHANNEL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NEWS" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="NIGEL" to="DACRE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="OUTDOOR" to="BROADCAST">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PLANS" to="ALL-DAY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PM" to="EDT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="POTENTIAL" to="AUDIENCE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PRINCESS" to="DIANA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="PUBLIC" to="SERVICE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REST" to="PLACE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="LIMITED">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="REUTERS" to="VARIETY">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RIVAL" to="PLANS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="ROUTE" to="DIANA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="RUN" to="COMMERCIAL">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SATURDAY" to="MORNING">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SERVICE" to="BROADCASTER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="SOMBER" to="TONE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STAFF" to="MANN">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STATES" to="AD">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="STORIES" to="TELEVISIONDIANA">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TECHNICAL" to="STAFF">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="CBS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="NETWORK">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TELEVISION" to="NEWS">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TEXT" to="HEADLINES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TURNED" to="SOUR">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="TV" to="WORLDWIDE">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="UNITED" to="STATES">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="VICE" to="PRESIDENT">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WEDNESDAY" to="SEPTEMBER">
+    <attribute name="TEXT" value="1" />
+  </edge>
+  <edge from="WESTMINSTER" to="ABBEY">
+    <attribute name="TEXT" value="2" />
+  </edge>
+  <edge from="YEAR" to="AGO">
+    <attribute name="TEXT" value="1" />
+  </edge>
+</graph>
