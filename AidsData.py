@@ -195,109 +195,123 @@ with open('GraphHelperObjAids', 'rb') as config_dictionary_file:
 
 kmeans = KMeans(n_clusters=2, random_state=0).fit(trainVector)
 
+from sklearn.metrics.pairwise import euclidean_distances
 
-# In[7]:
-
-
-import math
-import warnings
-
-def get_intra_cluster_distance(cluster_centroids,train_data_labels) :
+def delta(ck, cl):
+    values = np.ones([len(ck), len(cl)])*10000
     
-    number_of_clusters = cluster_centroids.shape[0]
-    
-    dist_list = []
-    for i in range(number_of_clusters) :
-        dist_list.append(0)
-    
-    for i in range(trainVector.shape[0]) :
-        
-        cluster_number = train_data_labels[i]
-        eucl_dist = cluster_centroids[cluster_number] - trainVector[i]
-        eucl_dist = np.square(eucl_dist)
-        eucl_dist = np.sum(eucl_dist)
-        eucl_dist = math.sqrt(eucl_dist)
-        
-        dist_list[cluster_number] = dist_list[cluster_number] + eucl_dist
-    
-    return max(dist_list)
-
-
-from scipy.spatial.distance import cdist, euclidean
-
-def geometric_median_weinsfeild(X, eps=1e-5):
-    y = np.mean(X, 0)
-
-    while True:
-        D = cdist(X, [y])
-        nonzeros = (D != 0)[:, 0]
-
-        Dinv = 1 / D[nonzeros]
-        Dinvs = np.sum(Dinv)
-        W = Dinv / Dinvs
-        T = np.sum(W * X[nonzeros], 0)
-
-        num_zeros = len(X) - np.sum(nonzeros)
-        if num_zeros == 0:
-            y1 = T
-        elif num_zeros == len(X):
-            return y
-        else:
-            R = (T - y) * Dinvs
-            r = np.linalg.norm(R)
-            rinv = 0 if r == 0 else num_zeros/r
-            y1 = max(0, 1-rinv)*T + min(1, rinv)*y
-
-        if euclidean(y, y1) < eps:
-            return y1
-
-        y = y1
-
-
-# In[48]:
-
-
-def get_inter_cluster_distance(cluster_centroids) :
-    
-    number_of_clusters = cluster_centroids.shape[0]
-    intra_cluster_list = []
-    
-    for i in range(number_of_clusters) :
-        for j in range(i+1,number_of_clusters) :
-            eucl_dist = cluster_centroids[i] - cluster_centroids[j]
-            eucl_dist = np.square(eucl_dist)
-            eucl_dist = np.sum(eucl_dist)
-            eucl_dist = math.sqrt(eucl_dist)
+    for i in range(0, len(ck)):
+        for j in range(0, len(cl)):
+            values[i, j] = np.linalg.norm(ck[i]-cl[j])
             
-            intra_cluster_list.append(eucl_dist)
+    return np.min(values)
+
+def dunn(k_list):
+    """ Dunn index [CVI]
     
-    return min(intra_cluster_list)
+    Parameters
+    ----------
+    k_list : list of np.arrays
+        A list containing a numpy array for each cluster |c| = number of clusters
+        c[K] is np.array([N, p]) (N : number of samples in cluster K, p : sample dimension)
+    """
+    deltas = np.ones([len(k_list), len(k_list)])*1000000
+    big_deltas = np.zeros([len(k_list), 1])
+    l_range = list(range(0, len(k_list)))
     
+    for k in l_range:
+        for l in (l_range[0:k]+l_range[k+1:]):
+            deltas[k, l] = delta(k_list[k], k_list[l])
+        
+        big_deltas[k] = big_delta(k_list[k])
+
+    di = np.min(deltas)/np.max(big_deltas)
+    return di
+
+def big_delta(ci):
+    values = np.zeros([len(ci), len(ci)])
+    
+    for i in range(0, len(ci)):
+        for j in range(0, len(ci)):
+            values[i, j] = np.linalg.norm(ci[i]-ci[j])
+            
+    return np.max(values)
+# In[7]:
+import math
+import pandas as pd
+from sklearn.utils.multiclass import unique_labels
+def InterClusterDistance(cluster_labels, data) :
+    uniqueLabels = unique_labels(cluster_labels)
+    globalMin = sys.maxsize
+    for i, label in enumerate(uniqueLabels):
+        for j in range(i + 1, len(uniqueLabels)):
+            clusterPointIndices = np.where(cluster_labels == label)
+            otherClusterIndices = np.where(cluster_labels == uniqueLabels[j])
+            clusterPoints = data[clusterPointIndices]
+            otherClusterPoints = data[otherClusterIndices]
+            pairWiseDifference = np.square(clusterPoints[:, np.newaxis] - otherClusterPoints)
+            pairWiseDifferenceReshaped = pairWiseDifference.reshape(-1, clusterPoints.shape[1])
+            pairWiseEucledian = np.sqrt(pairWiseDifferenceReshaped.sum(axis = 1))
+            clusterMin = pairWiseEucledian.min()
+            if(clusterMin < globalMin):
+                globalMin = clusterMin
+    return globalMin
+
+def IntraClusterDistance(cluster_labels, data):
+    globalMax = 0
+    uniqueLabels = unique_labels(cluster_labels)
+    pred = pd.DataFrame(cluster_labels)
+    pred.columns = ['Type']
+    df = pd.DataFrame(data)
+    # we merge this dataframe with df
+    prediction = pd.concat([df, pred], axis = 1)
+    for label in uniqueLabels:
+        clusterPointIndices = np.where(cluster_labels == label)
+        clusterPoints = data[clusterPointIndices]
+        pairWiseDifference = np.square(clusterPoints[:, np.newaxis] - clusterPoints)
+        pairWiseDifferenceReshaped = pairWiseDifference.reshape(-1, clusterPoints.shape[1])
+        pairWiseEucledian = np.sqrt(pairWiseDifferenceReshaped.sum(axis = 1))
+        clusterMax = pairWiseEucledian.max()
+        if(clusterMax > globalMax):
+            globalMax = clusterMax
+    return globalMax
 
 
-# In[51]:
 
-
-def return_dunn_index(kmeans_object) :
+def DunnScoreCalculation(kmeans_object, trainData, givenLabels = None):
     cluster_centroids = kmeans_object.cluster_centers_
-    train_data_labels = kmeans_object.labels_
+    if(givenLabels is None):
+        train_data_labels = kmeans_object.labels_
+    else:
+        train_data_labels = givenLabels
+    # interClusterDistance = InterClusterDistance(train_data_labels, trainData)
+    # intraClusterDistance = IntraClusterDistance(train_data_labels, trainData)
+    # minDunnScore = np.min(interClusterDistance / intraClusterDistance)
+    # return minDunnScore
+
+    df = pd.DataFrame(trainData)
+  
+    # K-Means
+    from sklearn import cluster
+    y_pred = train_data_labels
     
-    #print(type(cluster_centroids))
-    #print(type(train_data_labels))
-    #print(cluster_centroids.shape)
-    #print(train_data_labels.shape)
-    #print(kmeans.inertia_)
+    # We store the K-means results in a dataframe
+    pred = pd.DataFrame(y_pred)
+    pred.columns = ['Type']
     
-    intra_cluster_dist = get_intra_cluster_distance(cluster_centroids,train_data_labels)
-    inter_cluster_dist = get_inter_cluster_distance(cluster_centroids)
+    # we merge this dataframe with df
+    prediction = pd.concat([df, pred], axis = 1)
     
-    print(inter_cluster_dist/intra_cluster_dist)
+    # We store the clusters
+    clus0 = prediction.loc[prediction.Type == 0]
+    clus1 = prediction.loc[prediction.Type == 1]
+    cluster_list = [clus0.values, clus1.values]
+    
+    return dunn(cluster_list)
 
 
 # In[52]:
 
-
-return_dunn_index(kmeans)
 
 
 # In[13]:
@@ -319,12 +333,19 @@ print('Dunn Index Accuracy of Validation:{0:f}'.format(score))
 print("Homogenity Score of Validation %.6f" % homogeneity_score(y_validate, pred))
 
 
+
 print()
 print()
 pred = kmeans.predict(testVector)
 score = rand_score(y_test,pred)
 print('Dunn Index Accuracy of Test:{0:f}'.format(score))
 print("Homogenity Score of Test %.6f" % homogeneity_score(y_test, pred))
+from sklearn.preprocessing import LabelEncoder  
+le = LabelEncoder()
+y_train_labels = le.fit_transform(y_test)
+DunnScoreCalculation(kmeans, testVector, y_train_labels)
+
+
 
 
 # In[13]:
