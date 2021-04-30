@@ -67,9 +67,12 @@ class GraphHelper:
                         options # options for GED method.
                         )
         ged_env.init_method() # initialize GED method.
-
-        ged_env.run_method(listID[0], listID[1]) # run.
-        dis = ged_env.get_upper_bound(listID[0], listID[1])
+        dis = -1
+        try:
+            ged_env.run_method(listID[0], listID[1]) # run.
+            dis = ged_env.get_upper_bound(listID[0], listID[1])
+        except Exception as e:
+            pass
         return dis
 
     def MaxEditDistance(self, graphSets, nodes, addedIndices):
@@ -80,6 +83,8 @@ class GraphHelper:
                 print(nodeIndex, end = " ")
                 dis = self.GetDistanceBetweenGraphs(graph, node)
                 distanceVector[graphIndex][nodeIndex] = dis
+            print("\n\n")
+
         maxValue = -1
         maxIndex = -1
         for graphIndex in range(len(graphSets)):
